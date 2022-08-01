@@ -1,0 +1,944 @@
+#: locale=id-ID
+
+## Action
+
+### PDF
+PopupPDFBehaviour_272CBCDD_2822_4648_4180_76DEC18FF5DE.url = files/Panduan%20Museum%20untuk%20Anak%20-%20Agus%20Suwage%20The%20Theater%20of%20Me_id-ID.pdf
+PopupPDFBehaviour_3887534C_282E_4249_4198_5479DAC3345E.url = files/Panduan%20Museum%20untuk%20Anak%20-%20Agus%20Suwage%20The%20Theater%20of%20Me_id-ID.pdf
+
+### URL
+LinkBehaviour_2521C054_14BD_2BB4_4168_A7FF7573D8E7.source = #media-name=Early_Work_2&focus-overlay-name=ibuper
+LinkBehaviour_36686595_2679_5279_419A_85070B81D2F5.source = #media-name=Early_Work_2&focus-overlay-name=kotak
+LinkBehaviour_25B3D51B_14B2_F5BC_41A8_7BD127293A53.source = #media-name=Early_Work_2&focus-overlay-name=molek
+LinkBehaviour_2551A358_14BD_6DBC_41A3_CF5E0116C6D7.source = #media-name=Early_Work_2&focus-overlay-name=penentang
+LinkBehaviour_36446C30_2679_52B6_41C0_1045E5C9E5B0.source = #media-name=Early_Work_2&focus-overlay-name=waspada
+LinkBehaviour_25F98614_14BF_57B4_41B1_08F7D45612D7.source = #media-name=Early_Work_3&focus-overlay-name=pemandangan
+LinkBehaviour_23D741D8_14BD_2CBD_419A_240308EDEA46.source = #media-name=Early_Work_3&focus-overlay-name=primodial
+LinkBehaviour_2FA058BF_1457_3CF3_41A7_8C249F3C5122.source = #media-name=Early_Work_4&focus-overlay-name=kedatangan
+LinkBehaviour_2E902A5B_1453_3FBC_41B5_820DC12A8708.source = #media-name=Early_Work_5&focus-overlay-name=circus
+LinkBehaviour_3108AEE6_2689_2FDB_4190_FF91BAAF4F89.source = #media-name=Early_Work_6&focus-overlay-name=daughter
+LinkBehaviour_35B42438_26BB_32B7_41B1_95FDEF12C1E1.source = #media-name=Potret_Diri&focus-overlay-name=daughterdemo1
+LinkBehaviour_0151F3FC_1710_AA94_41B5_93549D9B09A6.source = #media-name=Potret_Diri&focus-overlay-name=daughterdemo2
+LinkBehaviour_011F2F34_1710_FB94_4198_3E110D124E84.source = #media-name=Potret_Diri&focus-overlay-name=daughterdemo3
+LinkBehaviour_0E1CE073_1B4E_64B7_41AA_8940CC98C85C.source = #media-name=Process&focus-overlay-name=100
+LinkBehaviour_00C2D4B6_1B4F_ADB0_4195_914CA368706A.source = #media-name=Process_2&focus-overlay-name=bukulipat
+LinkBehaviour_037D64E7_1B52_ADD0_4182_E4AA775970EF.source = #media-name=Process_3&focus-overlay-name=Video
+LinkBehaviour_039CEDFE_1B52_5FB0_41B4_898A9EF36252.source = #media-name=Process_3&focus-overlay-name=Video
+LinkBehaviour_07401E6A_1B52_FCD1_41AE_10CDA45EB932.source = #media-name=Process_3&focus-overlay-name=bukulipat
+LinkBehaviour_0007181E_1B5F_A470_41A9_514A478FCA7E.source = #media-name=Process_3&focus-overlay-name=raintext
+LinkBehaviour_0CE4EBDD_1B5E_5BF3_41B6_B40E8246123C.source = #media-name=Process_4&focus-overlay-name=Polygon_aindots3
+LinkBehaviour_06ADCA23_1B76_E457_4166_5FC6C8F1C024.source = #media-name=Process_4&focus-overlay-name=raindots
+LinkBehaviour_00A7FBF5_1B72_DBB3_41A0_A62901C2F5E8.source = #media-name=Process_4&focus-overlay-name=raintext1
+LinkBehaviour_07518B73_1B71_E4B7_41BA_D354344E1D0F.source = #media-name=Process_4&focus-overlay-name=texture
+LinkBehaviour_0A5FCDD7_1710_9E93_4174_56FCEF8DC3FA.source = #media-name=Self_Potrait_2&focus-overlay-name=judul
+LinkBehaviour_0DBEA930_171F_A7AD_4139_A36CE6148AE0.source = #media-name=Self_Potrait_2&focus-overlay-name=kaki3
+LinkBehaviour_0B72CBE7_1710_7AB3_41A1_DF926FF7D615.source = #media-name=Self_Potrait_2&focus-overlay-name=lonely
+LinkBehaviour_358EF75F_268A_DEEA_41A0_1D3365E9CA16.source = #media-name=Self_Potrait_2&focus-overlay-name=omnivore
+LinkBehaviour_37A69835_1730_6597_41A7_94528E09F645.source = #media-name=Self_Potrait_3&focus-overlay-name=anjing
+LinkBehaviour_09B6F6E9_17F1_EABF_4198_8B8B464921BA.source = #media-name=Self_Potrait_3&focus-overlay-name=bumi
+LinkBehaviour_37FF1645_17F0_EDF7_41B3_D45F7CB32331.source = #media-name=Self_Potrait_3&focus-overlay-name=co
+LinkBehaviour_342F45C2_2689_3DDB_4188_09326B20C845.source = #media-name=Self_Potrait_3&focus-overlay-name=holy
+LinkBehaviour_09D9EB8A_19E4_A89B_41B9_4C1288F8D872.source = #media-name=Self_Potrait_4&focus-overlay-name=bagian
+LinkBehaviour_0A343BC7_1A23_688A_419E_202DAF11E7E0.source = #media-name=Self_Potrait_4&focus-overlay-name=demo
+LinkBehaviour_15E56F48_1A23_A986_419C_FAFF53AEC375.source = #media-name=Self_Potrait_4&focus-overlay-name=edan
+LinkBehaviour_0A5C6D03_1A2C_E98A_41B8_ECB919C39D3D.source = #media-name=Self_Potrait_4&focus-overlay-name=ekonomi
+LinkBehaviour_09580029_19FD_B799_417A_1534EBB881FE.source = #media-name=Self_Potrait_4&focus-overlay-name=godot
+LinkBehaviour_0B0EC3BA_1A27_98FB_41A4_C35993CB942D.source = #media-name=Self_Potrait_4&focus-overlay-name=handle
+LinkBehaviour_09FBBA4F_19E3_AB9A_419C_F203A9DEA13C.source = #media-name=Self_Potrait_4&focus-overlay-name=kegelapan
+LinkBehaviour_359FC608_268E_FE57_4173_6ADFF1BD6B9A.source = #media-name=Self_Potrait_4&focus-overlay-name=melet
+LinkBehaviour_1711FA29_19E4_AB86_41B6_B8D2F1E0E53F.source = #media-name=Self_Potrait_4&focus-overlay-name=nero
+LinkBehaviour_09FE33FD_19E4_987E_41AC_5CB95A4C6891.source = #media-name=Self_Potrait_4&focus-overlay-name=parasite
+LinkBehaviour_0A90C01B_1A2D_97BA_41B0_276EAACEDA55.source = #media-name=Self_Potrait_4&focus-overlay-name=pollute
+LinkBehaviour_0AFEEF81_1A23_A889_41AB_A378F4C569C6.source = #media-name=Self_Potrait_4&focus-overlay-name=semangka
+LinkBehaviour_155C77DA_1A24_F8BB_419A_7A74CCDA876B.source = #media-name=Self_Potrait_4&focus-overlay-name=smile
+LinkBehaviour_355B7FF9_2689_2DA9_41C0_1928D41C223F.source = #media-name=Self_Potrait_5&focus-overlay-name=asnero
+LinkBehaviour_3543898B_2689_5269_41BF_94FC5FD029EE.source = #media-name=Self_Potrait_5&focus-overlay-name=double
+LinkBehaviour_03730D64_1A1D_698E_41B1_67CEDCEE6D48.source = #media-name=Self_Potrait_5&focus-overlay-name=gaya
+LinkBehaviour_034158CB_1A24_A89A_41AF_43E0AE452CD7.source = #media-name=Self_Potrait_5&focus-overlay-name=predator
+LinkBehaviour_01267A45_1A2F_AB89_41AF_DC9028FEC934.source = #media-name=Self_Potrait_5&focus-overlay-name=simbol
+WebFrame_0DE9F230_28E2_3DD8_41C3_B6E19578DFFA_mobile.url = https://drive.google.com/file/d/1N9ELAskcLvmd2AS6mz2WP3tgc7ieddjs/preview
+WebFrame_0E5E5565_28FD_C678_41AF_EFEC7AAD3114.url = https://drive.google.com/file/d/1N9ELAskcLvmd2AS6mz2WP3tgc7ieddjs/preview
+WebFrame_74AE56DC_602E_028F_417D_6F11D83B0D62.url = https://drive.google.com/file/d/1aqPx5zmNATaDzEO9DcM5qANC4hqtA5S4/preview
+WebFrame_74AE56DC_602E_028F_417D_6F11D83B0D62_mobile.url = https://drive.google.com/file/d/1aqPx5zmNATaDzEO9DcM5qANC4hqtA5S4/preview
+WebFrame_0E0F19E4_28EE_CE78_41A9_C07240657D1E.url = https://drive.google.com/file/d/1mfCEp8Nqr25YAWnZEfpUPFkIQ3fN9clE/preview
+WebFrame_0C3108D1_28ED_CE58_4174_73BBA022DC70_mobile.url = https://drive.google.com/file/d/1mfCEp8Nqr25YAWnZEfpUPFkIQ3fN9clE/preview
+WebFrame_0BEBFA5E_28EE_4248_41C2_65D26DA5D16E.url = https://drive.google.com/file/d/1ymLiObNVW5WzUNyrMcvVHw-4JhFiNUVR/preview
+WebFrame_0B5B322A_28E2_DDC8_41BD_16014F99730F_mobile.url = https://drive.google.com/file/d/1ymLiObNVW5WzUNyrMcvVHw-4JhFiNUVR/preview
+LinkBehaviour_2767208F_28D5_62AA_41A3_19C3BF167F6C.source = https://www.museummacan.org/
+PopupWebFrameBehaviour_1B9AEDF0_144B_63BB_41B3_4FD7296B7CB2.url = https://www.museummacan.org/
+PopupWebFrameBehaviour_1A6B9B7A_145E_A0AF_419A_1080AADFED81.url = https://www.museummacan.org/
+LinkBehaviour_266824F2_28D5_E27A_41B0_9F0A99F6FC6C.source = https://www.museummacan.org/
+WebFrame_C2D01DD2_DE5E_F98B_41E8_9CAC4C32D8C9_mobile.url = //www.youtube.com/embed/QCAbgiXu4qA?v=QCAbgiXu4qA&autoplay=1
+WebFrame_C20F33C9_DE5A_E998_41CF_5A16024ED34E.url = //www.youtube.com/embed/QCAbgiXu4qA?v=QCAbgiXu4qA&autoplay=1
+WebFrame_09AEB281_2822_C2B8_41C3_112938534665_mobile.url = //www.youtube.com/embed/r8E6AdAZq8w?v=r8E6AdAZq8w&autoplay=1
+WebFrame_09D11E48_2822_4249_419B_49997E168C88.url = //www.youtube.com/embed/r8E6AdAZq8w?v=r8E6AdAZq8w&t&autoplay=1
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_0CDBA9BC_1B52_E7B1_418D_D9B4BF2B2B1C.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+100 Drawing dan 720 Hari (2012–2014) \
+100 Drawings and 720 Days \
+ \
+Cat air, sari tembakau, stensil, tinta, dan lembaran emas di atas kertas \
+Watercolor, tobacco juice, stencil, ink, and gold leaf on paper \
+100 panel, masing-masing 25 x 25 cm. \
+100 panels, 25 x 25 cm each. \
+ \
+Koleksi milik / Collection of Ario Wibisono
+QuadHotspotPanoramaOverlayTextImage_090EE63A_17F0_6D9D_417A_24AB83F349EF.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Another Holy (2003) \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+200 x 150 cm \
+ \
+Koleksi milik pribadi / Private collection \
+
+QuadHotspotPanoramaOverlayTextImage_155EC7DA_1A24_F8BB_4188_DF1DF807CF29.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Artist’s Smile (1999) \
+Senyuman Sang Perupa \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+105 x 105 cm \
+ \
+Koleksi milik / Collection of Putu Rabin
+QuadHotspotPanoramaOverlayTextImage_09FC8A4F_19E3_AB9A_41B1_F2BFF059A678.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Belajar dari Kegelapan (2002) \
+Learning from the Darkness \
+ \
+Pastel, cat minyak, dan cat akrilik di atas kanvas \
+Pastel, oil, and acrylic on canvas \
+150 x 145 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_09ABF6E0_17F1_EAAC_41B4_70C67CDE6C82.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Bumi Meleleh (2002) \
+Melting Earth \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+140 x 151 cm \
+ \
+Koleksi milik / Collection of Andrie S. Yapsir
+QuadHotspotPanoramaOverlayTextImage_0B0DFE79_19ED_EB86_419A_4AB28A9F6A48.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Bumi Meleleh (2002) \
+Melting Earth \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+140 x 151 cm \
+ \
+Koleksi milik / Collection of Andrie S. Yapsir
+QuadHotspotPanoramaOverlayTextImage_0DB0B92F_171F_A7B3_4196_229CC82FE63C.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Cap Kaki Tiga (2001) \
+Three Legs Brand \
+ \
+Cat akrilik dan cat air di atas kertas \
+Acrylic and watercolor on paper \
+50 x 40 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_26BFC617_14D5_57B4_419D_F0C47DF844FE.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Circus of Democracy I (1997) \
+Sirkus Demokrasi I \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+200 x 288 cm \
+ \
+Koleksi milik / Collection of Putu Rabin
+HotspotPanoramaOverlayTextImage_350BBE73_13B5_3473_41AA_E9A8DC8FCAB2.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+DIY (Do it Yourself) (2003) \
+ \
+Pelat seng, mesin kayu, foto, dan logam \
+Zinc plate, wood motor, photographs, and metal \
+150 x 100 x 40 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_273C6026_14D5_2B94_417D_D0B1FCD2C9C5.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Daughter of Democracy (1996) \
+Putri Demokrasi \
+ \
+Arang, tinta, dan pensil warna di atas kertas \
+Charcoal, ink, and colored pencil on paper \
+58 x 75 cm \
+ \
+Koleksi milik perupa / Collection of the artist \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_02EBB281_1730_E56F_41A0_2260B8DBDE76.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Daughter of Democrazy I (1996) \
+ \
+Arang di atas kanvas \
+Charcoal on canvas \
+200 x 150 cm \
+ \
+Koleksi milik pribadi / Private collection \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_0132C510_1730_AF6C_41B7_2B38A7010F70.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Daughter of Democrazy II (1996) \
+ \
+Arang di atas kanvas \
+Charcoal on canvas \
+200 x 150 cm \
+ \
+Koleksi milik / Collection of Tumurun Museum \
+ \
+
+HotspotPanoramaOverlayTextImage_0158399A_1730_669D_41B1_D869DBC7335F.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Daughter of Democrazy III (1996) \
+ \
+Arang di atas kanvas \
+Charcoal on canvas \
+200 x 150 cm \
+ \
+Koleksi milik / Collection of H. Tanzil
+QuadHotspotPanoramaOverlayTextImage_01AC5B47_1A25_E989_41A2_57AAA46582B5.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Double Happiness (2003) \
+ \
+Oil and acrylic on canvas \
+Cat minyak dan cat akrilik di atas kanvas \
+150 x 200 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_15E78F48_1A23_A986_41A9_CCEEBB6F9308.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Edan Kelakon (2004) \
+Kejadian Gila \
+(Crazy Thing) \
+ \
+Cat air di atas kertas \
+Watercolor on paper \
+75 x 55 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+HotspotPanoramaOverlayTextImage_3D8F871A_14F7_55BD_41A2_FD1BE5FCBC68.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Fragmen Pustaka — After Raden Saleh (2016) \
+Fragmen Pustaka — Penghormatan kepada Raden Saleh \
+(Reading Fragment — After Raden Saleh) \
+ \
+Cat air, tinta, dan sari tembakau di atas kertas \
+Watercolor, ink, and tobacco juice on paper \
+122 x 168 cm \
+ \
+Koleksi milik / Collection of Museum MACAN \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_0B0C53BA_1A27_98FB_41A7_775B64BC6685.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Handle with Care (2003) \
+Tangani dengan Hati-Hati \
+ \
+Cat minyak dan cat akrilik di atas kanvas \
+Oil and acrylic on canvas \
+150 x 140 cm \
+ \
+Koleksi milik / Collection of Christie Leonardi
+QuadHotspotPanoramaOverlayTextImage_37A5F835_1730_6597_41AD_D58CD4AAFE74.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Holy Dog (1999–2000) \
+Anjing Suci \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+Tiga panel, masing-masing 73 x 73 cm. \
+Triptych, 73 x 73 cm each. \
+ \
+Koleksi milik pribadi / Private collection \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_09E013F6_19E4_988A_41B4_32D1311F2078.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+I'm The Most Educated Parasite (2000) \
+Aku adalah Parasit yang Paling Terpelajar \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+210 x 156 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_25E16020_17F3_2B8C_41B5_3C840BA2F1B0.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Ibu Pertiwi (1989) \
+Motherland \
+ \
+Cat air di atas kertas \
+Watercolor on paper \
+27.5 x 21.5 cm \
+ \
+Koleksi milik pribadi / Private collection \
+ \
+
+HotspotPanoramaOverlayTextImage_3D03BCCE_14FD_D494_418C_BBEDE02B484B.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Icarus #1 (2013) \
+ \
+Grafit dan lembaran emas pada karton \
+Graphite and gold leaf on cardboard \
+174 x 240 x 32 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_259A4FAA_1476_F49C_41A1_3873B9317DF2.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Indonesia Molek (1989) \
+Beautiful Indonesia \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+70 x 94 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_27BE1DD7_14D3_34B4_41A5_2E1748E0D696.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Instink Purba (1990) \
+Primordial Instinct \
+ \
+Cat akrilik di atas kanvas \
+Acrylic on canvas \
+182 x 182 cm \
+Dalam sembilan panel (in nine panels) \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_26D6AD24_14D2_D594_41A6_11DF8299FDD2.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Kedatangan, Keberangkatan (1995) \
+Arrival, Departure \
+ \
+Conté, tinta, dan kolase di atas tekstil \
+Conté, ink, and collage on textile \
+150 x 300 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_5666412B_14B3_6D93_41A5_262D33EAED92.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Kotak Pedagogi (1992) \
+Pedagogy Box \
+ \
+Tinta di atas kertas \
+Ink on paper \
+37 x 53.5 cm \
+ \
+Koleksi milik pribadi / Private collection
+HotspotPanoramaOverlayTextImage_3F130168_14F3_6D9C_41AA_623D3DB6E2C2.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Monumen yang Menjaga Hankamnas (2012) \
+Monument that Guards Hankamnas \
+ \
+Grafit pada resin, kuningan berlapis emas, kain, baja, botol bir, lampu LED, kotak akrilik, dan lampu fluoresens \
+Graphite on resin, gold-plated brass, cloth, steel, beer bottle, LED lights, acrylic box, and fluorescence lights \
+320 x 260 x 260 cm \
+ \
+Koleksi milik perupa / Collection of the artist \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_0143EBF6_1A1C_E88A_41A3_CA61BFF5184E.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+New-Old Style #2 (2016) \
+Gaya Baru-Lama #2 \
+ \
+Cat air di atas kertas \
+Watercolor on paper \
+245 x 173.5 x  4 cm \
+Dalam 64 panel (in 64 panels) \
+ \
+Koleksi milik / Collection of Ario Wibisono
+HotspotPanoramaOverlayTextImage_2094451D_0E95_081D_4187_5961835F05BB.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Ojo Gumun, Ojo Dumeh (2001) \
+Jangan Mudah Takjub, Jangan Takabur \
+(Don’t be Too Naive, Don’t be Arrogant) \
+ \
+Cat akrilik, becak, dan buah semangka \
+Acrylic paint, becak (pedicap), and watermelon \
+113 x 220 x 170 cm \
+ \
+Koleksi milik perupa / Collection of the artist \
+ \
+ 
+QuadHotspotPanoramaOverlayTextImage_09DCDB8A_19E4_A89B_41B9_EE6C2E7EFE90.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Part of An Offering to Ego #6 (2008) \
+Bagian dari Persembahan untuk Ego #6 \
+ \
+Arang dan grafit di atas kertas \
+Charcoal and graphite on paper \
+110 x 152 cm \
+ \
+Koleksi milik / Collection of Ario Wibisono
+QuadHotspotPanoramaOverlayTextImage_25BC21B7_14D3_2CF4_4188_D42765004634.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Pemandangan Duniawi #1 (1995) \
+Earthly Landscape #1 \
+ \
+Aspal di atas aluminium, foto, dan cat polimer sintesis \
+Asphaltum on aluminum, photograph, and synthetic polymer paint \
+190 x 220 x 7 cm \
+ \
+Koleksi milik pribadi / Private collection
+HotspotPanoramaOverlayTextImage_3C7DD797_17D3_74B3_4174_F3E352610C66.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Penentang Arus (1987) \
+The Dissident \
+ \
+Cat akrilik di atas kertas, dipasang pada papan \
+Acrylic on paper mounted on board \
+75 x 55 cm \
+ \
+Koleksi milik pribadi / Private collection \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_03D56C62_1A25_AF8A_417B_FF08538C43AE.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Potret Diri Sebagai Nero #5 (2014) \
+Self-Portrait as Nero #5 \
+ \
+Cat air, sari tembakau, dan kolase di atas kertas \
+Watercolor, tobacco juice, and collage on paper \
+150 x 225 cm \
+ \
+Koleksi milik / Collection of Ario Wibisono
+HotspotPanoramaOverlayTextImage_3DB21E48_14F3_579C_4189_C195B45FA844.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Potret Diri dan Panggung Sandiwara (2019) \
+Self-Portrait and the Theater Stage \
+ \
+Cat minyak dan media campuran di atas seng, dipasang pada aluminium \
+Oil and mixed media on zinc mounted on aluminum \
+60 panel, masing-masing 80 x 60 cm \
+60 panels, 80 x 60 cm each. \
+ \
+Koleksi milik perupa / Collection of the artist \
+ \
+
+QuadHotspotPanoramaOverlayTextImage_17160A19_19E4_ABB9_41B4_A6DB863A0894.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Potret Diri sebagai Nero #3 (2003) \
+Self-Portrait as Nero #3 \
+ \
+Cat minyak dan cat akrilik di atas kanvas \
+Oil and acrylic on canvas \
+150 x 200 cm \
+ \
+Koleksi milik pribadi /  Private collection
+QuadHotspotPanoramaOverlayTextImage_062F232C_1B76_A451_41BA_A913844FCA0C.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Rain Dot #2 (2009) \
+ \
+Litografi, etsa, aquatint, dan cat akrilik pada kertas buatan tangan STPI \
+Lithography, etching, aquatint, and acrylic on STPI handmade paper \
+101.6 x 127.6 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_0779E4CB_1B7F_ADD7_4155_F4BE3D317428.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Rain Dot #2 (2009) \
+ \
+Litografi, etsa, aquatint, dan cat akrilik pada kertas buatan tangan STPI \
+Lithography, etching, aquatint, and acrylic on STPI handmade paper \
+101.6 x 127.6 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_06B09E64_1B71_BCD0_41AF_3F4631435AD5.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Rain Text #2 (2009) \
+ \
+Litografi dan stensil pada kertas buatan tangan STPI \
+Lithography and stencil washed on STPI handmade paper \
+101.6 x 127.6 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_00715C7C_1B5E_5CB0_41AD_2C2E8AC83F4F.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Rain Text #2 (2009) \
+ \
+Litografi dan stensil pada kertas buatan tangan STPI \
+Lithography and stencil washed on STPI handmade paper \
+101.6 x 127.6 cm \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_0A352BC7_1A23_688A_41B8_F5863371AE84.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Sekedar Memperagakan Apa yang sedang Dilakukan oleh si Dia (2004) \
+Just Demonstrating What He’s Doing \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+150 x 145 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_258CC2A9_14B7_2C9C_41B6_1989BEBCEF26.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Selalu Waspada (1989) \
+Invariably Vigilant \
+ \
+Conté dan cat air di atas kertas \
+Conté and watercolor on paper \
+30 x 40 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_37FA5645_17F0_EDF7_41B0_0BDCCE82DEC4.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Self Portrait and Co #2 (2013) \
+ \
+Cat minyak, cat akrilik, dan bitumen di atas kanvas \
+Oil, acrylic, and bitumen on canvas \
+150 x 200 cm \
+ \
+Koleksi milik / Collection of Ario Wibisono \
+ \
+
+HotspotPanoramaOverlayTextImage_0BA865E7_1A2F_988A_41B5_1711BB6DA80C.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Self-Pollute (2018) \
+Mencemari Diri Sendiri \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+150 x 140 cm \
+ \
+Koleksi milik / Collection of Rudi Lazuardi
+QuadHotspotPanoramaOverlayTextImage_00A816C9_1A2C_9886_41B1_F5F4B906D080.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Simbol Biru (2002) \
+Blue Symbol \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+200 x 150 cm \
+ \
+Koleksi milik / Collection of Indra Leonardi
+HotspotPanoramaOverlayTextImage_3D5B7EA3_14FE_D48C_41B2_7ABABD86DFDD.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Social Mirrors #3 (2013) \
+Cermin Sosial #3 \
+ \
+Trompet, tembaga, kayu, dan sistem audio mobil \
+Trumpet, copper, wood, and car audio systems \
+118 x 24 x 70 cm \
+ \
+Koleksi milik pribadi / Private collection
+HotspotPanoramaOverlayTextImage_369E20B2_13BD_2C8C_41AC_BA275E6C61B4.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Swarga Nunut (2005) \
+Surga Ikut \
+(Heaven Follows) \
+ \
+Baja tahan karat, plastik, dan cetak digital \
+Stainless steel, plastic, and digital print \
+162,5 x 90 x 62 cm \
+ \
+Koleksi milik pribadi / Private collection \
+ \
+ \
+ \
+ 
+HotspotPanoramaOverlayTextImage_3626E1A9_13B6_EC9C_418B_AB0C7FCD1B5B.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Swarga Nunut (2005) \
+Surga Ikut \
+(Heaven Follows) \
+ \
+Baja tahan karat, plastik, dan cetak digital \
+Stainless steel, plastic, and digital print \
+162,5 x 90 x 62 cm \
+ \
+Koleksi milik pribadi / Private collection \
+ \
+ \
+ \
+ 
+QuadHotspotPanoramaOverlayTextImage_0AF8DF81_1A23_A889_41AE_35F5C93B2583.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Tarian Semangka (Homage to Hiroshige) (2015) \
+Watermelon Dance (Homage to Hiroshige) \
+ \
+Gouache di atas kertas \
+Gouache on paper \
+105 x 75.5 cm \
+ \
+Koleksi milik / Collection of ROH
+QuadHotspotPanoramaOverlayTextImage_07503B73_1B71_E4B7_41A2_5AA4D2BC0B79.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Texture (2009) \
+Tekstur \
+ \
+Kumpulan media campuran dari kertas buatan tangan STPI, ampas kapas, dan pigmen \
+Mixed media assemblage of STPI handmade paper, cotton pulp, and pigment \
+167.6 x 132.7 x 1.3 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_018514BC_1A23_B8FE_4197_7E16965AD29D.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+The Great Predator (2013) \
+Pemangsa Hebat \
+ \
+Cat minyak dan cat akrilik di atas kanvas \
+Oil and acrylic on canvas \
+157.5 x 186 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_0A5B7D03_1A2C_E98A_41AE_B301C38E46F6.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+The Swirly Economist #1 (2009) \
+Ahli Ekonomi Berpusing #1 \
+ \
+Cat minyak di atas kanvas \
+Oil on canvas \
+200 x 150 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_0631A2F2_1B4E_E5B1_418D_B05F09984DB6.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Untitled (1995) \
+Tanpa Judul \
+ \
+Buku lipat buatan tangan, kertas karton \
+Folded handmade book, cardboard paper \
+33 x 24 cm \
+Edisi tunggal \
+Single edition \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_00AA8C3D_1B57_DCB3_4194_7704CC448B3D.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Untitled (1995) \
+Tanpa Judul \
+ \
+Buku lipat buatan tangan, kertas karton \
+Folded handmade book, cardboard paper \
+33 x 24 cm \
+Edisi tunggal \
+Single edition \
+ \
+Koleksi milik perupa / Collection of the artist
+QuadHotspotPanoramaOverlayTextImage_0955A029_19FD_B799_41AE_CEEFC766989C.text = Agus Suwage (l. / b. Indonesia, 1959) \
+ \
+Waiting for Godot (2013) \
+Menunggu Godot \
+ \
+Cat minyak dan cat akrilik di atas kanvas \
+Oil and acrylic on canvas \
+250 x 200 cm \
+ \
+Koleksi milik / Collection of ROH
+QuadHotspotPanoramaOverlayTextImage_0B777BE5_1710_7AB7_4191_33D5B50DE9E6.text = Agus Suwage (l. /b. Indonesia, 1959) \
+ \
+FKLHCB (Frida Kahlo's Lonely Heart Club Band) (2001) \
+ \
+Foto berwarna dan cat akrilik \
+Color photography and acrylic \
+60 x 50 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_0BA2ADD1_1710_9EEF_414F_8870882CBBB6.text = Agus Suwage (l. /b. Indonesia, 1959) \
+ \
+FKLHCB (Frida Kahlo's Lonely Heart Club Band) (2001) \
+ \
+Foto berwarna dan cat akrilik \
+Color photography and acrylic \
+60 x 50 cm \
+ \
+Koleksi milik pribadi / Private collection
+QuadHotspotPanoramaOverlayTextImage_0B080A2C_1730_E5B4_41A5_AB4E56645F82.text = Agus Suwage (l. /b. Indonesia, 1959) \
+ \
+FKLHCB (Frida Kahlo's Lonely Heart Club Band) (2001) \
+ \
+Foto berwarna dan cat akrilik \
+Color photography and acrylic \
+60 x 50 cm \
+ \
+Koleksi milik pribadi / Private collection
+
+## Media
+
+### Audio
+audiores_01E5316F_1710_A7B3_41B1_592E79CE0CC8.mp3Url = media/audio_06F597DC_1710_6A94_419A_5699CE27F763_id-ID.mp3
+
+### Image
+imlevel_001F330C_2826_43C8_416E_5D209286B039.url = media/panorama_E95911F2_E600_141B_41EB_888BF034A554_HS_b1jvl2lj_id-ID.png
+imlevel_005F862E_2826_C5C8_4194_21334F6E25E4.url = media/panorama_E9591A21_E600_3438_41E9_684645197ABC_HS_chnvbx48_id-ID.png
+imlevel_01B5E2ED_2826_4248_41A9_0807C8E95EBC.url = media/panorama_E9591A21_E600_3438_41E9_684645197ABC_HS_fpbb0u2o_id-ID.png
+imlevel_004C602D_2826_DDC8_41BE_15A8A76C80F3.url = media/panorama_E9591A21_E600_3438_41E9_684645197ABC_HS_ls7v4jfd_id-ID.png
+imlevel_01AABC9E_2826_C6C8_41A8_70997254DE85.url = media/panorama_E9591A21_E600_3438_41E9_684645197ABC_HS_xjpr5qd9_id-ID.png
+imlevel_018218EE_2826_4E48_41AB_5C2937900A83.url = media/panorama_E9591A21_E600_3438_41E9_684645197ABC_HS_yseztdrh_id-ID.png
+imlevel_0006B943_2826_CFB8_41C0_71616440129D.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_0moazbm6_id-ID.png
+imlevel_006AFCB2_2826_C6D9_41BD_98EDDA074CE5.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_2u8mgg2j_id-ID.png
+imlevel_0013810B_2826_DFCF_41BF_C453364D3F0C.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_5p2es14m_id-ID.png
+imlevel_00F99375_2826_4258_419B_9B829A426BB9.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_75f49a17_id-ID.png
+imlevel_003BC1AB_2826_3EC8_41C4_244C52F5B9DB.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_bbykgctn_id-ID.png
+imlevel_001E473C_2826_C3C9_41A7_5E3ABFDDD9F4.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_dkl2jpu7_id-ID.png
+imlevel_00DD0616_2826_45D8_4183_53185EDD8A81.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_he04oimp_id-ID.png
+imlevel_0041C807_2826_CDB8_41AF_C5478F92307F.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_i4e19l55_id-ID.png
+imlevel_00EE5CB8_2826_46C8_41B1_88F12044E146.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_kxpq92mo_id-ID.png
+imlevel_0075B1E7_2826_FE47_41C0_AB8E32DA0DE4.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_t2lqn8z9_id-ID.png
+imlevel_00D29F96_2826_42D8_41AA_16EF3856735F.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_w6ydniq4_id-ID.png
+imlevel_00280BA9_2826_42C8_41BC_D29622A34755.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_xnocj7d3_id-ID.png
+imlevel_00C549B4_2826_4ED8_41C0_EAD7B13E25B2.url = media/panorama_E9592242_E600_347B_41C5_4745DFF8359E_HS_yi95qcqe_id-ID.png
+imlevel_0193DC16_2827_C5D9_41B5_7233179C497B.url = media/panorama_E9592A4B_E600_1409_41E8_C946B85FD971_HS_0ihll21k_id-ID.png
+imlevel_01B3C7DD_2826_4248_41C0_7CE5EC97A527.url = media/panorama_E9593A8C_E600_3408_41CA_5B01BB37BB33_HS_kbuwj5fh_id-ID.png
+imlevel_0F2110E0_2826_5E78_41B7_9A6726EBCC8F.url = media/panorama_E9593A8C_E600_3408_41CA_5B01BB37BB33_HS_kwue8dfc_id-ID.png
+imlevel_0F4073AC_2827_C2C8_41A3_8323E871A45F.url = media/panorama_E95959EB_E600_7408_41E7_EF9E49EFF92B_HS_9872stez_id-ID.png
+imlevel_0F6E6962_2827_CE78_41B5_A9FD5EEC0669.url = media/panorama_E95959EB_E600_7408_41E7_EF9E49EFF92B_HS_a0pn7xgq_id-ID.png
+imlevel_0F751EE5_2827_C278_41AB_A697D5F23AE8.url = media/panorama_E95959EB_E600_7408_41E7_EF9E49EFF92B_HS_pv115fkk_id-ID.png
+imlevel_0F4EF8F1_2827_CE58_41B3_AB3637AA48D8.url = media/panorama_E95971CB_E600_1409_41AB_5C069B2D50C7_HS_0ryvoj5u_id-ID.png
+imlevel_00ACB92E_2827_CFC8_4182_6A33AAD4047C.url = media/panorama_E95971CB_E600_1409_41AB_5C069B2D50C7_HS_e5qj5edd_id-ID.png
+imlevel_0F54FE55_2827_C258_4184_7CD1010C1E0D.url = media/panorama_E95971CB_E600_1409_41AB_5C069B2D50C7_HS_fjgkml7y_id-ID.png
+imlevel_00A0E3D9_2827_C248_4197_C5367F148C68.url = media/panorama_E95971CB_E600_1409_41AB_5C069B2D50C7_HS_hhsan1iq_id-ID.png
+imlevel_0F1C1361_2827_C278_41AC_FDB59ACC9E5A.url = media/panorama_E959B1FB_E600_7408_41E8_608210F12B65_HS_h6k3efkp_id-ID.png
+imlevel_0F01BF57_2826_4258_4187_137B081C1304.url = media/panorama_E959C28B_E600_1408_41D9_3B8905A9939E_HS_ig10syjn_id-ID.png
+imlevel_0FF74D33_2826_47DF_41A8_828B3557166D.url = media/panorama_E959E26E_E600_3408_41C3_57B3420CCF87_HS_90y6n056_id-ID.png
+imlevel_0F9D2122_2826_5FF9_41AA_C49B415D557A.url = media/panorama_E959E26E_E600_3408_41C3_57B3420CCF87_HS_bueppywh_id-ID.png
+imlevel_0FC992A9_2826_42C8_41BB_937B1E4B2362.url = media/panorama_E959E26E_E600_3408_41C3_57B3420CCF87_HS_q5ixijbv_id-ID.png
+imlevel_0FE807A1_2826_42F8_419E_6D93A4E77D68.url = media/panorama_E959E26E_E600_3408_41C3_57B3420CCF87_HS_tsef6uwu_id-ID.png
+imlevel_0FD737BF_2826_42C7_41B8_695651AFAA1B.url = media/panorama_E959E26E_E600_3408_41C3_57B3420CCF87_HS_urs9c8dd_id-ID.png
+imlevel_0E0F87B3_2826_42DF_41C0_3E8FCDC951CF.url = media/panorama_E959F29B_E600_1409_41B8_7D5B02316661_HS_6jpmslkx_id-ID.png
+imlevel_04A602B8_2826_42C9_41C3_F4178BA9DEE5.url = media/panorama_E95A09CC_E600_140F_41E7_43B0B439498F_HS_0malxrqw_id-ID.png
+imlevel_0354AD93_2826_46DF_4199_530DACCAAD56.url = media/panorama_E95A09CC_E600_140F_41E7_43B0B439498F_HS_cxmytssu_id-ID.png
+imlevel_0369C96B_2826_4E4F_41BA_A6238D838542.url = media/panorama_E95A09DF_E600_1409_41D1_1302E77F203C_HS_wz3rrji8_id-ID.png
+imlevel_03455639_2826_45C8_41B1_7B23F4DDEA25.url = media/panorama_E95A49CD_E600_3408_41C1_C5F3382855A7_HS_t91r7hum_id-ID.png
+imlevel_04812003_2826_3DBF_4165_43F7E8142F08.url = media/panorama_E95AA1D7_E600_F419_41CE_D7E559DCC228_HS_0dgpmgct_id-ID.png
+imlevel_0535EA80_2826_42B8_41A9_6B0EA610C04E.url = media/panorama_E95AA1D7_E600_F419_41CE_D7E559DCC228_HS_6rgyvj9e_id-ID.png
+imlevel_008A16A9_2826_42C8_41B1_1D78C69144F0.url = media/panorama_E95ADA28_E600_1437_41E2_17E98E05072B_HS_59nogjpe_id-ID.png
+imlevel_009C74D1_2826_4658_41BB_F3E25CFB386D.url = media/panorama_E95ADA28_E600_1437_41E2_17E98E05072B_HS_6koojf4u_id-ID.png
+imlevel_00B890F6_2826_3E58_41C1_28021C55F9BC.url = media/panorama_E95ADA28_E600_1437_41E2_17E98E05072B_HS_6zmhynwc_id-ID.png
+imlevel_00908DE5_2826_4678_41C2_D8BA69EC4D1F.url = media/panorama_E95ADA28_E600_1437_41E2_17E98E05072B_HS_rt6vlo7a_id-ID.png
+imlevel_054E23CC_2825_C248_41A4_E4CBE4EA996D.url = media/panorama_E95B41E4_E600_1438_41E5_E4B085C089F0_HS_gnor248u_id-ID.png
+imlevel_008165FD_2822_4648_41A9_6A2FFDA86AE8.url = media/panorama_E95B425F_E600_3408_41D1_D0E8B7953C36_HS_5z7az2c7_id-ID.png
+imlevel_00E41494_2822_46D8_41C3_2DE5E56F00F5.url = media/panorama_E95B425F_E600_3408_41D1_D0E8B7953C36_HS_bu01dsd0_id-ID.png
+imlevel_00962CDA_2822_4648_41C0_469DBC27268B.url = media/panorama_E95B425F_E600_3408_41D1_D0E8B7953C36_HS_lupn4kf4_id-ID.png
+imlevel_00B48DB7_2825_C6D8_4180_55454EA58C7A.url = media/panorama_E95B425F_E600_3408_41D1_D0E8B7953C36_HS_r6mv2kww_id-ID.png
+imlevel_0F782B4E_2825_C249_41BA_E7A81B926CF8.url = media/panorama_E95B59E5_E601_F439_4189_85F13B61FC73_HS_hfh5nvci_id-ID.png
+imlevel_01DD2E57_2825_C258_41C1_5204F3AF17F1.url = media/panorama_E95B8A21_E600_1438_41D3_E2A5F1695FE7_HS_1qbxpny4_id-ID.png
+imlevel_042A760E_2825_C5C9_41C2_F669FC3E7C97.url = media/panorama_E95B8A21_E600_1438_41D3_E2A5F1695FE7_HS_c1ygquqk_id-ID.png
+imlevel_0379A00B_2826_7DC8_41BE_46A2FA168594.url = media/panorama_E95B91DE_E600_3408_41E1_4EACBED17D83_HS_j4m406d0_id-ID.png
+imlevel_0F1D8D5E_2825_C648_41B1_D6DDC9E81150.url = media/popup_09307C5F_1AD1_DCEF_418A_966AF57EC6FF_id-ID_0_0.jpg
+imlevel_0F1E8D5E_2825_C648_41C0_95E517E3AF15.url = media/popup_09307C5F_1AD1_DCEF_418A_966AF57EC6FF_id-ID_0_1.jpg
+imlevel_0F1E9D5E_2825_C648_41AE_82A011879FB8.url = media/popup_09307C5F_1AD1_DCEF_418A_966AF57EC6FF_id-ID_0_2.jpg
+imlevel_0F7AE993_2825_CED8_41BD_DA42D1E196E8.url = media/popup_094D64BB_1AD6_EDB0_41A2_600E4D950506_id-ID_0_0.jpg
+imlevel_0F7B9993_2825_CED8_41B5_FEA4DAA6C3CF.url = media/popup_094D64BB_1AD6_EDB0_41A2_600E4D950506_id-ID_0_1.jpg
+imlevel_0F7B8993_2825_CED8_41A5_032DF480D0AF.url = media/popup_094D64BB_1AD6_EDB0_41A2_600E4D950506_id-ID_0_2.jpg
+imlevel_0F79F993_2825_CED8_419B_DA433A49636B.url = media/popup_094DA4BB_1AD6_EDB0_41B1_FC91170EEFB4_id-ID_0_0.jpg
+imlevel_0F79E993_2825_CED8_41B7_51C510ADB3EF.url = media/popup_094DA4BB_1AD6_EDB0_41B1_FC91170EEFB4_id-ID_0_1.jpg
+imlevel_0F799993_2825_CED8_41C0_9496A30D2C7D.url = media/popup_094DA4BB_1AD6_EDB0_41B1_FC91170EEFB4_id-ID_0_2.jpg
+imlevel_0F6BB287_2825_C2C7_41B5_9614BE54E9EA.url = media/popup_0951257E_1AD2_6CB1_41B8_AED6D53C9F89_id-ID_0_0.jpg
+imlevel_0F64B287_2825_C2C7_41B5_D12709266002.url = media/popup_0951257E_1AD2_6CB1_41B8_AED6D53C9F89_id-ID_0_1.jpg
+imlevel_0F64A287_2825_C2C7_41C2_80526C634412.url = media/popup_0951257E_1AD2_6CB1_41B8_AED6D53C9F89_id-ID_0_2.jpg
+imlevel_0F6BF274_2825_C259_41B1_E666EC62FA79.url = media/popup_095EE57E_1AD2_6CB1_41B9_A002AF9F507A_id-ID_0_0.jpg
+imlevel_0F6BE274_2825_C259_41BC_CD32D363D738.url = media/popup_095EE57E_1AD2_6CB1_41B9_A002AF9F507A_id-ID_0_1.jpg
+imlevel_0F6B9274_2825_C259_41C1_B4B1BA44FBAB.url = media/popup_095EE57E_1AD2_6CB1_41B9_A002AF9F507A_id-ID_0_2.jpg
+imlevel_0F7AA9B1_2825_CED8_41C3_FBF76D81759F.url = media/popup_0E0A56D2_1AD1_ADF1_41B2_54EC7D0C1A87_id-ID_0_0.jpg
+imlevel_0F7A59B1_2825_CED8_41C2_C83329481893.url = media/popup_0E0A56D2_1AD1_ADF1_41B2_54EC7D0C1A87_id-ID_0_1.jpg
+imlevel_0F7A49B1_2825_CED8_41A2_17FA3EC412E7.url = media/popup_0E0A56D2_1AD1_ADF1_41B2_54EC7D0C1A87_id-ID_0_2.jpg
+imlevel_0F10A73E_2825_C3C8_41B0_D9EFBD26EE0B.url = media/popup_0E2623C4_1AF6_ABD0_41AE_D3D64A1AFE18_id-ID_0_0.jpg
+imlevel_0F10B73E_2825_C3C8_4195_3BB6902045D7.url = media/popup_0E2623C4_1AF6_ABD0_41AE_D3D64A1AFE18_id-ID_0_1.jpg
+imlevel_0F10573E_2825_C3C8_418B_BE7AA96D6C73.url = media/popup_0E2623C4_1AF6_ABD0_41AE_D3D64A1AFE18_id-ID_0_2.jpg
+imlevel_0F7A09DF_2825_CE47_41BB_1E77FC369FDC.url = media/popup_0E2EC68E_1AD2_AC50_4179_3A0BADB2D296_id-ID_0_0.jpg
+imlevel_0F7B09DF_2825_CE47_4173_89F338877828.url = media/popup_0E2EC68E_1AD2_AC50_4179_3A0BADB2D296_id-ID_0_1.jpg
+imlevel_0F7B29DF_2825_CE47_41A3_0BA5AC6CF2C1.url = media/popup_0E2EC68E_1AD2_AC50_4179_3A0BADB2D296_id-ID_0_2.jpg
+imlevel_0F6A62B3_2825_C2D8_41C1_24B33E979A9C.url = media/popup_0E6BB461_1AD6_ECD3_4195_A207E6C8EFB6_id-ID_0_0.jpg
+imlevel_0F6472B3_2825_C2D8_41BF_460C7347D225.url = media/popup_0E6BB461_1AD6_ECD3_4195_A207E6C8EFB6_id-ID_0_1.jpg
+imlevel_0F6462B3_2825_C2D8_41B9_5F3FA2052D02.url = media/popup_0E6BB461_1AD6_ECD3_4195_A207E6C8EFB6_id-ID_0_2.jpg
+imlevel_0F7969D0_2825_CE58_41BE_367826584BF8.url = media/popup_0E9A0201_1AD2_E450_41B9_E11F1138E18F_id-ID_0_0.jpg
+imlevel_0F7909D0_2825_CE58_419D_B26217CD26CE.url = media/popup_0E9A0201_1AD2_E450_41B9_E11F1138E18F_id-ID_0_1.jpg
+imlevel_0F7939D0_2825_CE58_41BB_1A45BE4713C1.url = media/popup_0E9A0201_1AD2_E450_41B9_E11F1138E18F_id-ID_0_2.jpg
+imlevel_0F6B52A4_2825_C2F8_41BC_3C1AFA4DED64.url = media/popup_0EAC2190_1AD1_E471_4189_2B8360F8AE68_id-ID_0_0.jpg
+imlevel_0F6B42A4_2825_C2F8_41B4_1EBD01B6F121.url = media/popup_0EAC2190_1AD1_E471_4189_2B8360F8AE68_id-ID_0_1.jpg
+imlevel_0F6B72A4_2825_C2F8_41C2_2E8312F99096.url = media/popup_0EAC2190_1AD1_E471_4189_2B8360F8AE68_id-ID_0_2.jpg
+imlevel_0F17F829_2825_CDC8_41B9_3665333B0AB1.url = media/popup_0EBBA095_1ADE_A470_41AB_15B0B657A732_id-ID_0_0.jpg
+imlevel_0F10F829_2825_CDC8_41B2_72A71B57DE2F.url = media/popup_0EBBA095_1ADE_A470_41AB_15B0B657A732_id-ID_0_1.jpg
+imlevel_0F108829_2825_CDC8_41AD_D8C70C6FAC71.url = media/popup_0EBBA095_1ADE_A470_41AB_15B0B657A732_id-ID_0_2.jpg
+imlevel_0F1CCD2F_2825_C7C8_417F_C6B2ABD8D50C.url = media/popup_0EBD2704_1ADF_EC51_416F_E13CE6916DB6_id-ID_0_0.jpg
+imlevel_0F1EDD2F_2825_C7C8_41C1_4B5D6A332B2B.url = media/popup_0EBD2704_1ADF_EC51_416F_E13CE6916DB6_id-ID_0_1.jpg
+imlevel_0F1EED2F_2825_C7C8_41C1_66C0F2D1DB79.url = media/popup_0EBD2704_1ADF_EC51_416F_E13CE6916DB6_id-ID_0_2.jpg
+imlevel_0F1DFD3F_2825_C7C8_41B7_EC8C6856B450.url = media/popup_0EC3C15C_1ADE_64F0_41B0_4EFF22C6018C_id-ID_0_0.jpg
+imlevel_0F1D8D3F_2825_C7C8_41B6_19344B9CDADA.url = media/popup_0EC3C15C_1ADE_64F0_41B0_4EFF22C6018C_id-ID_0_1.jpg
+imlevel_0F1D9D3F_2825_C7C8_4178_A65C3C8786AE.url = media/popup_0EC3C15C_1ADE_64F0_41B0_4EFF22C6018C_id-ID_0_2.jpg
+imlevel_0F1E0D2F_2825_C7C8_41C1_912587E7DAAE.url = media/popup_0FE34594_1ADE_6C70_41AC_E91DB9D1BFB0_id-ID_0_0.jpg
+imlevel_0F1E1D2F_2825_C7C8_41A3_A30403F85054.url = media/popup_0FE34594_1ADE_6C70_41AC_E91DB9D1BFB0_id-ID_0_1.jpg
+imlevel_0F1E2D2F_2825_C7C8_41B0_5C1FCDD6DCB0.url = media/popup_0FE34594_1ADE_6C70_41AC_E91DB9D1BFB0_id-ID_0_2.jpg
+imlevel_0F7A49C0_2825_CEB8_419B_117FCCBFF406.url = media/popup_0FF96C36_1AD1_BCB1_41B3_176188CC31B3_id-ID_0_0.jpg
+imlevel_0F7B49C0_2825_CEB8_41B3_4B2EBBF31416.url = media/popup_0FF96C36_1AD1_BCB1_41B3_176188CC31B3_id-ID_0_1.jpg
+imlevel_0F7B79C0_2825_CEB8_418E_7DE823575FD4.url = media/popup_0FF96C36_1AD1_BCB1_41B3_176188CC31B3_id-ID_0_2.jpg
+
+### Popup Image
+
+### Title
+video_00CBF7A1_13DD_548C_41A2_B3578EEB72E7.label = Diy (Do It Yourself) 01
+video_07D6824A_13D2_EF9C_41B0_5F91E9768E44.label = Diy (Do It Yourself) 02
+video_05E24112_13F7_6D8C_4192_C516DB2B1A24.label = Diy (Do It Yourself) 03
+panorama_E959E26E_E600_3408_41C3_57B3420CCF87.label = Early_Work_2
+panorama_E9593A8C_E600_3408_41CA_5B01BB37BB33.label = Early_Work_3
+panorama_E959C28B_E600_1408_41D9_3B8905A9939E.label = Early_Work_4
+panorama_E9592A4B_E600_1409_41E8_C946B85FD971.label = Early_Work_5
+panorama_E959B1FB_E600_7408_41E8_608210F12B65.label = Early_Work_6
+panorama_E95911F2_E600_141B_41EB_888BF034A554.label = Education Corner
+panorama_E95AFADB_E600_1409_41E3_DB40A6FACF03.label = End 2
+panorama_E95892DA_E600_340B_41E2_6D8785CB654F.label = End 3
+panorama_0EEC3B56_2822_4258_41B9_03BDE3520E25.label = Humour _ toys S Us
+panorama_00DB19CD_283F_CE4B_41AA_926F0A7CB8C4.label = Humour _ toys S Us 3
+panorama_E959EA8C_E600_F408_41E3_865DC48B195C.label = Intro 2
+panorama_E959F29B_E600_1409_41B8_7D5B02316661.label = Intro 3
+panorama_E959EAAD_E600_1408_41DB_E2BE26884CCA.label = Karya Awal
+panorama_0DBC20F9_2822_3E48_41B7_306EAFF9245E.label = Kematian dan Sirkus
+panorama_E95A1AD0_E600_F417_41D0_B58717791EB8.label = Lini Masa
+panorama_E95B01C1_E601_F479_41EA_596B87EC6938.label = Lini Masa 2
+video_0955F7B6_2822_C2D8_41B0_EBCD266C627D.label = Loop Tunggal
+video_0268FF99_12C7_1E7D_41A5_BB78672BFB44.label = Looping
+video_01A96038_12DB_22BB_41B1_62FA001D33A6.label = Looping Buku
+video_0AD92A71_28E6_C25B_4189_332938CA9791.label = Looping Cermin
+video_09E5EDE6_2826_4678_419B_87E08B319BB1.label = Looping Concert
+video_0DE441D7_28E2_DE58_41AE_8FC9F7CAD1A4.label = Looping Toys And Us
+video_05F8054A_13F2_D59D_41A0_F97B534CBF21.label = Lores 360º Microsite Assets Potret Diri Sebagai Banaspati 01
+video_05E1C7E5_13F3_5494_41B1_DD8D72371902.label = Lores 360º Microsite Assets Potret Diri Sebagai Banaspati 02
+video_0BCCB61E_13F5_37B4_4170_7C6439CDF35E.label = Lores 360º Microsite Assets Social Mirror
+video_0404B578_13D5_D47C_4198_387505BD32BE.label = Lores 360º Microsite Assets Tembok Toleransi 01
+video_04E00979_13D7_DC7C_41A2_0693255AA190.label = Lores 360º Microsite Assets Tembok Toleransi 02
+video_04944C66_13CD_3B94_41AB_CC9E79001B58.label = Lores 360º Microsite Assets Yin Yang 01
+panorama_E95AA1D7_E600_F419_41CE_D7E559DCC228.label = Monumen yang Menjaga Hankamnas
+panorama_E95AC9F1_E600_1419_41E3_33E8C4DA5485.label = Panggung Ngoprek
+panorama_F610226F_E600_1409_41E7_E837E3603F21.label = Penutup
+panorama_E95959EB_E600_7408_41E7_EF9E49EFF92B.label = Potret_Diri
+panorama_E95BFA5D_E600_1408_41E1_E64FEB7C401C.label = Pressure and Pleasure 2
+panorama_E95BE23D_E600_7409_41B8_D7A3AC4CFACD.label = Pressure and Pleasure 3
+panorama_E95B99EE_E600_740B_41C3_FD0C89F1F5ED.label = Pressure and Pleasure 4
+panorama_E95B81ED_E600_1409_41E0_57DFBCA7B601.label = Pressure and Pleasure 5
+panorama_E95B41E4_E600_1438_41E5_E4B085C089F0.label = Process_2
+panorama_E95B8A21_E600_1438_41D3_E2A5F1695FE7.label = Process_3
+panorama_E95B425F_E600_3408_41D1_D0E8B7953C36.label = Process_4
+panorama_E95B59E5_E601_F439_4189_85F13B61FC73.label = Proses
+panorama_E95A09DF_E600_1409_41D1_1302E77F203C.label = Sculpture Garden
+panorama_E95B91DE_E600_3408_41E1_4EACBED17D83.label = Sculpture Garden 2
+panorama_E95A49CD_E600_3408_41C1_C5F3382855A7.label = Sculpture Garden 3
+panorama_E95A51DC_E600_1408_41C9_BB9000A337B1.label = Sculpture Garden 4
+panorama_E95A09CC_E600_140F_41E7_43B0B439498F.label = Sculpture Garden 5
+panorama_E95971CB_E600_1409_41AB_5C069B2D50C7.label = Self_Potrait_2
+panorama_E95ADA28_E600_1437_41E2_17E98E05072B.label = Self_Potrait_3
+panorama_E9592242_E600_347B_41C5_4745DFF8359E.label = Self_Potrait_4
+panorama_E9591A21_E600_3438_41E9_684645197ABC.label = Self_Potrait_5
+panorama_E95BB26D_E600_1408_41B3_90CCFC709577.label = Tekanan dan Kenikmatan
+panorama_E959925E_E600_F408_41D1_4299991723C6.label = The Theater Of Me
+panorama_E95AC2BF_E600_1408_41CC_22414EB132E1.label = Timeline 2
+panorama_E95A5A8F_E600_1408_41EC_6E09066F4C2F.label = Timeline 3
+panorama_E95A228E_E600_3408_41E3_49C8B65161F7.label = Timeline 4
+panorama_E95DAAF5_E600_3418_41E6_E7348B5D6F09.label = Timeline 5
+panorama_E95A02D5_E600_1418_41E6_CD27DBA52B0A.label = Timeline 6
+panorama_0EDC8080_2822_3EB8_41AC_A2A9C7B290C8.label = Toys ‘S’ Us dan Pertunjukan Gairah
+
+### Video
+videolevel_38817AC2_28DC_E895_4194_A36D0BF80814.url = media/video_00CBF7A1_13DD_548C_41A2_B3578EEB72E7_id-ID.mp4
+videolevel_38817AC2_28DC_E895_4194_A36D0BF80814.posterURL = media/video_00CBF7A1_13DD_548C_41A2_B3578EEB72E7_poster_id-ID.jpg
+videolevel_38BF5B11_28DC_E9B7_41A0_D902E5FF0608.url = media/video_01A96038_12DB_22BB_41B1_62FA001D33A6_id-ID.mp4
+videolevel_38BF5B11_28DC_E9B7_41A0_D902E5FF0608.posterURL = media/video_01A96038_12DB_22BB_41B1_62FA001D33A6_poster_id-ID.jpg
+videolevel_388D56A6_28DC_F89D_419C_F8DCCB4F286E.url = media/video_0268FF99_12C7_1E7D_41A5_BB78672BFB44_id-ID.mp4
+videolevel_388D56A6_28DC_F89D_419C_F8DCCB4F286E.posterURL = media/video_0268FF99_12C7_1E7D_41A5_BB78672BFB44_poster_id-ID.jpg
+videolevel_388D083E_28DC_F7ED_41C1_0570737E36B9.url = media/video_0404B578_13D5_D47C_4198_387505BD32BE_id-ID.mp4
+videolevel_388D083E_28DC_F7ED_41C1_0570737E36B9.posterURL = media/video_0404B578_13D5_D47C_4198_387505BD32BE_poster_id-ID.jpg
+videolevel_388AF88D_28DC_E8AF_4199_1943807D5D7A.url = media/video_04944C66_13CD_3B94_41AB_CC9E79001B58_id-ID.mp4
+videolevel_388AF88D_28DC_E8AF_4199_1943807D5D7A.posterURL = media/video_04944C66_13CD_3B94_41AB_CC9E79001B58_poster_id-ID.jpg
+videolevel_388D17F0_28DC_F875_41B6_496FA06ACA20.url = media/video_04E00979_13D7_DC7C_41A2_0693255AA190_id-ID.mp4
+videolevel_388D17F0_28DC_F875_41B6_496FA06ACA20.posterURL = media/video_04E00979_13D7_DC7C_41A2_0693255AA190_poster_id-ID.jpg
+videolevel_38892969_28DC_E997_41B4_6DF5AE6820C0.url = media/video_05E1C7E5_13F3_5494_41B1_DD8D72371902_id-ID.mp4
+videolevel_38892969_28DC_E997_41B4_6DF5AE6820C0.posterURL = media/video_05E1C7E5_13F3_5494_41B1_DD8D72371902_poster_id-ID.jpg
+videolevel_38850A06_28DC_EB9D_41B0_AA692E1A46AD.url = media/video_05E24112_13F7_6D8C_4192_C516DB2B1A24_id-ID.mp4
+videolevel_38850A06_28DC_EB9D_41B0_AA692E1A46AD.posterURL = media/video_05E24112_13F7_6D8C_4192_C516DB2B1A24_poster_id-ID.jpg
+videolevel_388709B8_28DC_E8F5_41AA_5928570E45E6.url = media/video_05F8054A_13F2_D59D_41A0_F97B534CBF21_id-ID.mp4
+videolevel_388709B8_28DC_E8F5_41AA_5928570E45E6.posterURL = media/video_05F8054A_13F2_D59D_41A0_F97B534CBF21_poster_id-ID.jpg
+videolevel_38837A74_28DC_E87D_41B1_30E3EAA67BDA.url = media/video_07D6824A_13D2_EF9C_41B0_5F91E9768E44_id-ID.mp4
+videolevel_38837A74_28DC_E87D_41B1_30E3EAA67BDA.posterURL = media/video_07D6824A_13D2_EF9C_41B0_5F91E9768E44_poster_id-ID.jpg
+videolevel_388D7772_28DC_F87A_41B5_84B5AD077DD0.url = media/video_0955F7B6_2822_C2D8_41B0_EBCD266C627D_id-ID.mp4
+videolevel_388D7772_28DC_F87A_41B5_84B5AD077DD0.posterURL = media/video_0955F7B6_2822_C2D8_41B0_EBCD266C627D_poster_id-ID.jpg
+videolevel_388D67B1_28DC_F8F6_41B2_898ADD45E1A6.url = media/video_09E5EDE6_2826_4678_419B_87E08B319BB1_id-ID.mp4
+videolevel_388D67B1_28DC_F8F6_41B2_898ADD45E1A6.posterURL = media/video_09E5EDE6_2826_4678_419B_87E08B319BB1_poster_id-ID.jpg
+videolevel_388D5734_28DC_F9FD_41C2_67696FC0AC0C.url = media/video_0AD92A71_28E6_C25B_4189_332938CA9791_id-ID.mp4
+videolevel_388D5734_28DC_F9FD_41C2_67696FC0AC0C.posterURL = media/video_0AD92A71_28E6_C25B_4189_332938CA9791_poster_id-ID.jpg
+videolevel_388B38DC_28DC_E8AD_4150_AEBD68F1A730.url = media/video_0BCCB61E_13F5_37B4_4170_7C6439CDF35E_id-ID.mp4
+videolevel_388B38DC_28DC_E8AD_4150_AEBD68F1A730.posterURL = media/video_0BCCB61E_13F5_37B4_4170_7C6439CDF35E_poster_id-ID.jpg
+videolevel_388D56E5_28DC_F89F_41C0_4B24B396D2EE.url = media/video_0DE441D7_28E2_DE58_41AE_8FC9F7CAD1A4_id-ID.mp4
+videolevel_388D56E5_28DC_F89F_41C0_4B24B396D2EE.posterURL = media/video_0DE441D7_28E2_DE58_41AE_8FC9F7CAD1A4_poster_id-ID.jpg
+
+## Skin
+
+### Button
+Button_3EDE3763_2822_427F_41BA_6103422E1739.label = Bahasa Indonesia
+Button_3EDE3763_2822_427F_41BA_6103422E1739_mobile.label = Bahasa Indonesia
+Button_02CC6526_0CB8_45A0_41A8_A36F7803817B.pressedLabel = Curatorial in English
+Button_1FF52617_0E95_0BEC_41A8_E2498A84A92B.pressedLabel = Curatorial in English
+Button_1E92F4BB_0E93_0824_417A_F98202C6E36D.pressedLabel = Curatorial in English
+Button_1E92F4BB_0E93_0824_417A_F98202C6E36D.label = Curatorial in English
+Button_1FF52617_0E95_0BEC_41A8_E2498A84A92B.label = Curatorial in English
+Button_02CC6526_0CB8_45A0_41A8_A36F7803817B.label = Curatorial in English
+Button_3DC64629_0E95_0825_41A6_A2F04576740D.pressedLabel = Curatorial in English
+Button_3DC64629_0E95_0825_41A6_A2F04576740D.label = Curatorial in English
+Button_1C8E6BE5_0CC8_4CA0_4188_C6DAE738EA54.label = Curatorial in English
+Button_1C8E6BE5_0CC8_4CA0_4188_C6DAE738EA54.pressedLabel = Curatorial in English
+Button_3F21DCDE_2822_4649_41BC_A18DE982E450.label = English
+Button_3F21DCDE_2822_4649_41BC_A18DE982E450_mobile.label = English
+Button_3DFAC62A_0E95_0827_41AB_7367C2709166.label = Kuratorial Bahasa Indonesia
+Button_3DFAC62A_0E95_0827_41AB_7367C2709166.pressedLabel = Kuratorial Bahasa Indonesia
+Button_1C8E7BE5_0CC8_4CA0_418D_5CF875C520C1.pressedLabel = Kuratorial Bahasa Indonesia
+Button_1C8E7BE5_0CC8_4CA0_418D_5CF875C520C1.label = Kuratorial Bahasa Indonesia
+Button_02C5C533_0CB8_45A0_4185_23F92EE6014F.label = Kuratorial Bahasa Indonesia
+Button_1E94F4BB_0E93_0824_4199_1C8D490C0027.pressedLabel = Kuratorial Bahasa Indonesia
+Button_1FF5C617_0E95_0BEC_4186_3ABF7BCDCF37.pressedLabel = Kuratorial Bahasa Indonesia
+Button_1FF5C617_0E95_0BEC_4186_3ABF7BCDCF37.label = Kuratorial Bahasa Indonesia
+Button_02C5C533_0CB8_45A0_4185_23F92EE6014F.pressedLabel = Kuratorial Bahasa Indonesia
+Button_1E94F4BB_0E93_0824_4199_1C8D490C0027.label = Kuratorial Bahasa Indonesia
+
+### Dropdown
+DropDown_AB30C94B_BC80_6C73_41DC_3030202F0079.prompt = Agus Suwage: The Theater of Me
+DropDown_AB30C94B_BC80_6C73_41DC_3030202F0079_mobile.prompt = Agus Suwage: The Theater of Me
+
+### Label
+Label_3D9A2460_2822_4679_4174_8A370049D990_mobile.text = Back
+Label_3D9A2460_2822_4679_4174_8A370049D990.text = Back to home
+
+### Multiline Text
+HTMLText_12CE0A6B_0F8D_1824_41AA_EC39C3F27805.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"><B>Kematian dan Sirkus I</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Siklus #1 (2010) adalah sebuah karya yang dibuat oleh Agus Suwage sebagai hasil mengikuti program residensi seni di Dhaka, Bangladesh, di mana ia melihat kesenjangan yang ekstrem antara kemiskinan dan kekayaan. Melihat burung gagak mengorek tumpukan sampah dan terinspirasi oleh pemakaman langit di Tibet—di mana jasad diumpankan kepada burung—Suwage menyadari akan siklus kehidupan dan zat. Semua yang hidup akan mati dan pada akhirnya akan kembali melalui pemakan bangkai, menjadi sesuatu yang berguna.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Memento mori—atau pengingat akan kefanaan manusia, muncul berulang di seluruh praktik Suwage. Pemahaman ini berfungsi sebagai humor gelap dan kiasan yang mengacu pada kerapuhan, penderitaan, dan absurditas manusia.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_128B335F_0FB3_081C_41A3_361876F87C04.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"><B>Kematian dan Sirkus II</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Karya-karya ini menggambarkan hubungan yang kompleks antara perupa dan pasar. Suwage secara kritis mengamati dinamika kuasa antara perupa, dealer, kolektor dan institusi, serta dampak personalnya terhadap sang perupa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Dalam Toys ‘S’ Us (2003), sang perupa ditampilkan sebagai miniatur dalam serangkaian mainan interaktif anak-anak yang juga menjadi mainan bagi siapapun yang menyaksikan—ia ditampilkan sebagai sosok kekanakan, penurut, dan memperagakan berbagai muslihat. Hubungan ini digambarkan secara terbalik dalam Passion Play (Pertunjukkan Gairah) (2009), di mana sejumlah sosok yang berpengaruh di dunia seni rupa, termasuk dealer, kurator, dan kolektornya dipenjara, juga dipamerkan di balik jeruji besi. Karya ini diciptakan untuk pameran retrospektif Suwage pada tahun 2009 yang berjudul ‘Still Crazy After All These Years’ yang dihadirkan pada puncak boom seni rupa Indonesia yang dimulai pada tahun 2000-an. Boom seni ini berbeda dengan periode sebelumnya pada tahun 1980-an dan 1990-an ketika karya seni rupa Indonesia utamanya beredar di ranah domestik. Boom tahun 2000-an memperlihatkan susunan pemain yang lebih kompleks termasuk balai lelang internasional, di mana Asia Tenggara terhubung dengan pasar-pasar baru dalam cakupan wilayah yang lebih luas di Asia.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Passion Play mengambil judul dari naskah teater yang biasa dipentaskan menjelang Paskah dalam tradisi Kristiani yang mengisahkan penderitaan dan kematian Yesus Kristus. Secara historis, pertunjukan ini berfungsi ganda: sebagai cara mengisahkan Kristus, sekaligus menegaskan kontrol sosial atas jemaat melalui artikulasi pengharapan masyarakat. Observasi satir Suwage menyadarkan kita akan kerumitan relasi sosial, politik dan ekonomi yang membingkai dunia seni rupa, dan peran perupa yang genting.</SPAN></SPAN></DIV></div>
+HTMLText_14EB2D6A_0E93_3827_4176_0F6BC40F08F9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"><B>Proses</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Komitmen pada seni gambar (drawing), sebagai sebuah proses dan praktik, sangat mendasar dalam karya Agus Suwage. Karya 100 Drawings and 720 Hari (2012–2014) memberikan gambaran kepada kita mengenai struktur dan proses sang perupa saat berkarya. Layaknya buku harian, rangkaian seni gambar ini tampak intim dan observasional, dengan sekelebat gambaran mengenai bagaimana sang perupa berkarya melalui gagasan yang muncul dan berulang dalam berbagai area praktiknya. Karya ini juga menunjukkan komitmen dan kedisiplinan sang perupa, juga rutinitas hariannya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">‘CIRCL3’ adalah seri karya yang dikembangkan selama program residensi seni pada tahun 2009 di STPI, Singapura. Dengan menggunakan bubur kertas (bahan mentah yang digunakan untuk membuat kertas), Suwage telah menciptakan karya berskala besar yang merujuk pada kontroversi. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Pada tahun 2005, Suwage menciptakan karya instalasi Pinkswing Park (kini dikoleksi Singapore Art Museum) yang menyertakan citraan figur-figur setengah telanjang laki-laki dan perempuan di sebuah taman (dengan alat kelamin disamarkan, atau diberi potongan lingkaran oleh sang perupa). Citraan tersebut dipasang mengelilingi patung yang ditempatkan di tengah ruangan—sebuah becak yang dicat merah muda. Karya ini menyedot perhatian luar biasa dari media massa dan menimbulkan ancaman kekerasan politik dan protes dari Front Pembela Islam (FPI) serta menempatkan Suwage, kurator pameran, fotografer, dan kedua modelnya, dituduh melanggar hukum anti-pornografi di Indonesia. Meskipun tidak ada gugatan dan proses peradilan, kegemparan dan kegaduhan silang pendapat publik berkontribusi pada diskusi terkait kebebasan berekspresi dalam kesenian, dan menyoroti sebuah pertentangan yang lebih besar; antara nilai-nilai liberal dan pluralisme budaya Indonesia di satu sisi, dengan pengaruh kepentingan agama terhadap masyarakat kontemporer Indonesia di sisi lainnya. Kumpulan karya dengan material kertas ini, dibuat empat tahun setelah kasus tersebut, menampilkan model perempuan yang sama dari instalasi aslinya pada tahun 2005, dengan kutipan teks Undang-Undang (No. 44 tahun 2008 tentang Pornografi) tertulis di atasnya, menghalangi citraan perempuan di bawahnya, serta potongan lingkaran yang menghilangkan unsur yang dianggap sensitif.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Penggunaaan potongan lingkaran ini dapat dilihat sebagai tindakan sensor sekaligus bentuk pertahanan diri. Hal tersebut juga menyadarkan bahwa kita tidak melihat segala sesuatu secara utuh. Dengan menghapus apa yang mungkin dianggap menyinggung, kita menyadari bahwa ada sesuatu yang hilang: sudut pandang, argumentasi, posisi subjek yang pada akhirnya menghilang dari pembahasan umum.</SPAN></SPAN></DIV></div>
+HTMLText_17C660E9_0E97_0824_41A1_703BBA4510D1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"><B>Self-portraits </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"><B>Aku mengandung banyak persona, diri dalam lautan potret</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Dalam ruangan ini, kita melihat potret diri yang dibuat dalam kurun waktu lebih dari 25 tahun. Secara keseluruhan, mereka terlihat absurd dan meresahkan. Kita dapat melihat bagaimana dia menirukan hewan, menggambarkan dirinya dengan gaya diktator, tampil sebagai individu yang rapuh, eksentrik, dan memperlihatkan perwujudan antropomorfik dari stereotip rasial.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Tubuh sang perupa telah menjadi subjek yang hadir berulang-ulang sejak awal praktik keseniannya. Hal ini bermula sebagai respon pragmatis atas situasi ekonominya; dia tidak perlu membayar model untuk berpose di hadapannya. Pragmatisme awal ini berubah menjadi salah satu fitur yang paling dikenal dari praktik Suwage, dengan bentuk tiruan unik atas penampakan fisik sang perupa, disertai komentar politik dan sosial serta pertanyaan filosofis mengenai eksistensi. Dalam karya-karya ini, kita dapat melihat bagaimana kehidupan bangsa, sosial, dan politik diwujudkan dalam representasi tubuh sang perupa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Perkembangan Agus Suwage sebagai perupa muda dihadapkan pada kekacauan, kekerasan dan huru-hara politik di Jakarta pada pertengahan hingga akhir 1990-an, diiringi demonstrasi mahasiswa menjelang Reformasi pada tahun 1998. Reformasi juga bertepatan dengan globalisasi, yang berarti informasi dan budaya dapat diakses dengan lebih mudah dan lebih cepat, utamanya seiring kemunculan berbagai media baru dalam percaturan media di Indonesia. Kesempatan untuk bepergian, berpameran, dan berpartisipasi dalam residensi seni di luar negeri menciptakan berbagai kemungkinan pertukaran intelektual.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Berkomitmen pada gagasan bahwa seseorang harus kritis terhadap diri sendiri dan melihat kelemahannya sendiri sebelum melontarkan kritik dan keluhan pada komunitas kolektif atau proyeksi nasionalnya, potret-potret diri ini menjadi pintu masuk untuk menyingkap hubungan antar individu yang kompleks dalam proyeksi nasional mengenai minoritas dan mayoritas. Apakah itu perenungan tentang antagonisme beragama dalam diskursus nasional di Indonesia, pemahaman akan hak-hak sipil, artikulasi kekerasan historis dan politik, atau dalam mempertanyakan hubungan antara individu dan mereka yang berkuasa—tubuh sang perupa berkali-kali hadir dan muncul, memperlihatkan kerapuhan, menua, dan tersenyum seraya berolok-olok.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Dalam ruangan ini, kita diingatkan akan ketidaksempurnaan manusia; ungkapan yang berbunyi “tidak ada yang benar-benar berubah”—seperti yang dinyatakan Bob Dylan “...I contain multitudes (aku mengandung banyak persona)” yang dipinjam dari puisi penyair Amerika Walt Whitman.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Suwage mengingatkan kita bahwa dampak dan pengaruh sistem politik dan ekonomi, serta identifikasi komunal, dapat dirasakan oleh setiap individu. Pada tataran individu itu pula, kekerasan komunal dan kekhasan masing-masing pribadi termanifestasikan. Dan dari hal-hal tersebut, keragaman serta perbedaan pendapat pada akhirnya terbentuk.</SPAN></SPAN></DIV></div>
+HTMLText_2F39DE67_0F95_182C_4172_16394BE2628F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"><B>Tekanan dan Kenikmatan</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Agus Suwage menggambarkan bagaimana pada periode sekitar Kerusuhan Mei 1998 ia mengalami  kemandekan artistik. Pada bulan Desember 1999, ia berpindah dari Jakarta ke Yogyakarta, disertai keprihatinan dan keputusasaannya atas kekerasan dan kekacauan yang bergejolak seiring tumbangnya rezim Orde Baru. Pressure and Pleasure (Tekanan dan Kenikmatan) (1999) merupakan salah satu karya kunci  yang dihasilkannya menyusul periode ini. Ketika itu, tenda-tenda masih berdiri di jalanan dan sebagian kota masih membara. Pada saat bersamaan, tempat hiburan dan karaoke telah dibuka kembali —meski di tengah situasi yang tidak pasti dan tak menentu. Seketika sang perupa menyadari bahwa kekerasan semakin dipandang sebagai hal yang lumrah. Dualitas ini ditampilkan di dalam tenda, di mana kita menemukan potret diri sang perupa di antara penggambaran semi-erotis nan menggairahkan dari bintang film dewasa yang dilukis dengan gaya spanduk film.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Maka Lahirlah Angkatan '90-an (2001) merupakan apropriasi dari lukisan S. Sudjojono yang berjudul Maka Lahirlah Angkatan '66 (1966) (yang saat ini ditampilkan dalam pameran ‘POSE’ di Galeri 2 Museum MACAN). Kedua lukisan ini dibuat pada masa perubahan sosial yang besar di Indonesia. Sudjojono membuat lukisannya seiring dengan gelombang protes mahasiswa pada tahun 1966, saat para pemuda menuntut perubahan radikal dalam pemerintahan, sedangkan Suwage membuat apropriasi tersebut segera setelah Kerusuhan Mei 1998.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Lukisan Sudjojono menggambarkan komitmen sang perupa pada persoalan sosial dan perjuangan rakyat akan hak dan kedaulatan, sementara  perspektif Suwage berasal dari generasi berbeda yang muncul di persimpangan perubahan sosial, peluang ekonomi global, dan perkembangan dunia hiburan. Meski terkadang masih terkait dengan agenda politik tertentu, seni pada tahun 1990-an memiliki fungsi sosial dan ekonomi yang berbeda saat berhadapan dengan kekuatan globalisasi.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Dalam lukisan ini kita melihat gambaran nostalgia melalui potret seorang perupa nasionalis yang berpartisipasi dalam agenda politik dengan kuas di tangannya. Perupa tersebut berdiri di depan poster film dewasa yang digambarkan dalam instalasi Pressure and Pleasure (1999). Menirukan gaya Sudjojono yang khas—menulis teks pada lukisannya—Suwage menorehkan corat-coret serupa yang mengkritisi sistem ekonomi yang mengikis cita-cita nasional generasi sebelumnya, sekaligus pengamatan terhadap komodifikasi seni dan kecenderungan neoliberalnya:</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:46.89px;padding-right:46.89px;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:46.89px;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';text-indent:46.89px;"><I>Mungkin Sudjojono tak pernah bermimpi jika tiba-tiba lukisan jadi komoditi yang laris manis, justru pada saat </I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:46.89px;padding-right:46.89px;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:46.89px;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';text-indent:46.89px;"><I>ekonomi Indonesia sedang terpuruk</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:46.89px;padding-right:46.89px;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:46.89px;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';text-indent:46.89px;"><I> </I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:46.89px;padding-right:46.89px;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:46.89px;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';text-indent:46.89px;"><I>Maka abrakadabra boom… lahirlah angkatan ‘90-an</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_016D34B3_0E93_0825_41A8_075B3CF49E2F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vmin;font-family:'Open Sans';"><B>Agus Suwage: The Theater of Me</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Karya Awal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Agus Suwage berpengalaman sebagai seorang desainer grafis dan pada tahun 1988 menjadi salah satu pendiri studio desain grafis di Jakarta bernama Work Gallery. Saat bekerja sebagai desainer, ia juga mengeksplorasi minatnya pada seni rupa. Suwage menggunakan beberapa ruangan di kantor tersebut sebagai studio lukis, sementara ruangan lainnya diubah menjadi ruang pamer. Pameran kelompok berskala kecil pun ia ikuti, dan pada sekitar tahun 1993, ia mulai diundang berpameran di luar negeri.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Agus Suwage menetap di Jakarta selama periode yang bergejolak menjelang Kerusuhan Mei 1998, yang berujung pada keruntuhan rezim Orde Baru Soeharto. Karya-karya dalam ruangan ini, yang dibuat pada tahun 1987–1997, menggambarkan momen penting dalam perkembangan Agus Suwage sebagai perupa. Kita dapat melihat dampak periode politik tersebut, serta proses pembelajaran sang perupa sebagai pelukis otodidak dengan mengamati karya perupa lain. Hal ini merupakan dasar konseptual penting bagi perkembangan praktik artistik Suwage. Kita melihat pengaruh ekspresionisme Jerman—ekspresi yang gelap dari Anselm Kiefer dan investigasinya terhadap trauma dalam sejarah Jerman, imajinasi surealis dari René Magritte, dan kegelisahan akan ruang psikologis dalam karya perupa Italia Francesco Clemente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Pendekatan berkesenian melalui perenungan mendalam terhadap karya perupa lain ini berlanjut sepanjang praktik artistiknya (dan dapat dieksplorasi sepanjang pameran ini). Pendekatannya juga terkait dengan gagasan-gagasan lain yang beredar di kalangan terpelajar pada saat itu, misalnya penyusunan wacana postmodern melalui kutipan dan rekombinasi. Narasi-narasi besar, struktur kuasa otorisasi, yang dipertanyakan dalam teori postmodern, juga dipertanyakan mahasiswa dan intelektual muda Indonesia. Gagasan postmodernisme yang mengubah cara pandang otoritatif tunggal atau narasi besar, dengan posisi subjektif dan individual, barangkali merupakan cara ampuh bagi seorang perupa muda untuk memikirkan perubahan penting situasi politik yang terjadi di kota sekitarnya dengan seksama.</SPAN></SPAN></DIV></div>
+HTMLText_3DCDD5EC_0E95_083C_41A3_A85BF178AECD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vmin;font-family:'Open Sans';"><B>Agus Suwage: The Theater of Me</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Karya Awal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Agus Suwage berpengalaman sebagai seorang desainer grafis dan pada tahun 1988 menjadi salah satu pendiri studio desain grafis di Jakarta bernama Work Gallery. Saat bekerja sebagai desainer, ia juga mengeksplorasi minatnya pada seni rupa. Suwage menggunakan beberapa ruangan di kantor tersebut sebagai studio lukis, sementara ruangan lainnya diubah menjadi ruang pamer. Pameran kelompok berskala kecil pun ia ikuti, dan pada sekitar tahun 1993, ia mulai diundang berpameran di luar negeri.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Agus Suwage menetap di Jakarta selama periode yang bergejolak menjelang Kerusuhan Mei 1998, yang berujung pada keruntuhan rezim Orde Baru Soeharto. Karya-karya dalam ruangan ini, yang dibuat pada tahun 1987–1997, menggambarkan momen penting dalam perkembangan Agus Suwage sebagai perupa. Kita dapat melihat dampak periode politik tersebut, serta proses pembelajaran sang perupa sebagai pelukis otodidak dengan mengamati karya perupa lain. Hal ini merupakan dasar konseptual penting bagi perkembangan praktik artistik Suwage. Kita melihat pengaruh ekspresionisme Jerman—ekspresi yang gelap dari Anselm Kiefer dan investigasinya terhadap trauma dalam sejarah Jerman, imajinasi surealis dari René Magritte, dan kegelisahan akan ruang psikologis dalam karya perupa Italia Francesco Clemente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.851851851851852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.85vmin;font-family:'Open Sans';">Pendekatan berkesenian melalui perenungan mendalam terhadap karya perupa lain ini berlanjut sepanjang praktik artistiknya (dan dapat dieksplorasi sepanjang pameran ini). Pendekatannya juga terkait dengan gagasan-gagasan lain yang beredar di kalangan terpelajar pada saat itu, misalnya penyusunan wacana postmodern melalui kutipan dan rekombinasi. Narasi-narasi besar, struktur kuasa otorisasi, yang dipertanyakan dalam teori postmodern, juga dipertanyakan mahasiswa dan intelektual muda Indonesia. Gagasan postmodernisme yang mengubah cara pandang otoritatif tunggal atau narasi besar, dengan posisi subjektif dan individual, barangkali merupakan cara ampuh bagi seorang perupa muda untuk memikirkan perubahan penting situasi politik yang terjadi di kota sekitarnya dengan seksama.</SPAN></SPAN></DIV></div>
+HTMLText_2B3B78E3_0F8F_7824_4182_0DEDD1501736.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.8813314037626632vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.88vmin;font-family:'Open Sans';"><B>Monumen yang Menjaga Hankamnas</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.88vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8813314037626632vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.88vmin;font-family:'Open Sans';">Instalasi ini terdiri dari seribu lebih botol bir kosong yang disusun menyerupai monumen bercahaya, dengan sosok malaikat bersayap emas berdiri di puncaknya, mengenakan serban dan memegang sebilah pedang. Suwage menggambarkan bagaimana karya ini bertolak dari kritiknya yang berkelanjutan terhadap perilaku otoriter dan intoleransi, serta kepeduliannya terhadap kebutuhan untuk senantiasa melindungi kebebasan dan hak individu dengan penuh kewaspadaan. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.88vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8813314037626632vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.88vmin;font-family:'Open Sans';">Karya ini mengandung sejumlah simbol yang penting dalam karya Suwage: bir—yang mewakili pelumas sosial sekaligus antagonisme terhadap konservatisme beragama—dan sosok malaikat pelindung, yang ditampilkan sebagai kerangka. Istilah 'Hankamnas' dalam judul karya, merupakan akronim dari Pertahanan dan Keamanan Nasional, dan mengacu pada bagaimana kekuasaan pada masa Orde Baru dipusatkan dan dipertahankan, hingga pada akhirnya menimbulkan gejolak yang berpuncak pada keruntuhan Orde Baru, menuju Reformasi. Karya ini merupakan parodi kekuasaan, kejayaan, dan eksistensi posisi individu yang terperangkap dalam mekanisme kekuasaan. Sang perupa mengamati bagaimana toleransi, baik sebagai konsep maupun praktik, masih harus diperjuangkan meskipun sistem pemerintahan, sosial, dan politik telah direformasi.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.88vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8813314037626632vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.88vmin;font-family:'Open Sans';">Social Mirrors #3 (2013) menyertakan rekaman bunyi terompet yang menyerupai irama melodi azan atau panggilan sembahyang. Suwage membayangkan seruan yang syahdu dan menggugah, yang mengajak masyarakat untuk beribadah, kontras dengan persaingan azan yang kerap kita dengar di permukiman padat di wilayah urban. </SPAN></SPAN></DIV></div>
+HTMLText_02CC4526_0CB8_45A0_41A8_6110895AECCA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:2.0260492040520983vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.03vmin;font-family:'Open Sans';"><B>Agus Suwage: The Theater of Me</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.8813314037626632vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.88vmin;font-family:'Open Sans';">Introduction wall text</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.7366136034732276vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.74vmin;font-family:'Open Sans';">Agus Suwage adalah salah satu perupa terkemuka Indonesia yang praktik berkeseniannya muncul di tengah gejolak perubahan sosial dan politik Indonesia, menjelang era Reformasi pada pertengahan 1990-an. Karyanya secara mendalam mengungkapkan harapan dan rasa frustrasi dari generasi yang terhanyut dalam pergeseran kekuasaan dan identitas, yang dipengaruhi baik oleh pembaruan nasional maupun globalisasi. Diungkapkan melalui narasi yang intim dan personal, karyanya membahas tema-tema budaya dan politik secara luas, dan membantu kita memahami skema kekuasaan dan otoritas yang memengaruhi kehidupan kita saat ini.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.7366136034732276vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.74vmin;font-family:'Open Sans';">Beranjak dari perenungan pribadi yang mendalam dan pengamatan tajam terhadap masyarakat dan politik, pameran ini mengeksplorasi perkembangan karya Agus Suwage dengan melihat hubungan antara mimpi-mimpi individu dan kesadaran akan tanggung jawab, serta peran perupa dalam membuka ruang untuk menyuarakan kritik sosial.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.7366136034732276vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.74vmin;font-family:'Open Sans';">Selama lebih dari 25 tahun, Suwage telah menciptakan potret-potret diri untuk menyelidiki posisi dirinya sebagai subjek terkait konteks sosial di sekelilingnya. Sang perupa telah menyatakan bahwa membuat potret diri adalah upaya untuk mengkritik diri dan bahwa seseorang harus selalu berlatih mengkritik diri sendiri sebelum orang lain. Dalam pengertian ini, karya Agus Suwage memberikan gambaran nyata pada persinggungan identitas nasional, politik, masyarakat, dan ekspresi individu yang membawa kita ke dalam ruang psikologis yang kompleks.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.7366136034732276vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:1.74vmin;font-family:'Open Sans';">Berbagai gagasan seperti ingatan, rasa takut, keterasingan, angan-angan, identitas perseorangan, dan humor terjalin dengan komentar sosial secara umum. Jauh dari analogi dan pengamatan sederhana tentang dunia yang terus berubah di sekitarnya, karya Agus Suwage menjadi lebih kompleks dengan adanya interogasi diri secara terus-menerus, serta penggalian mitos dan simbol yang membingkai kompleksitas hubungan manusia dan kekuatan politik nasional, yang menguraikan cita-cita bangsa dan korupsi yang menyedihkan. Karya-karyanya merujuk pada sejarah seni rupa Indonesia dan dunia, filsafat, musik, dan politik, serta mengidentifikasi pendekatan artistik dan keterhubungan konsep yang serupa dengan perupa lainnya, melintasi batas ruang dan waktu.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1C8E4BE5_0CC8_4CA0_41A0_CE30A86A9B5D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Agus Suwage: The Theater of Me</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Introduction wall text</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Agus Suwage adalah salah satu perupa terkemuka Indonesia yang praktik berkeseniannya muncul di tengah gejolak perubahan sosial dan politik Indonesia, menjelang era Reformasi pada pertengahan 1990-an. Karyanya secara mendalam mengungkapkan harapan dan rasa frustrasi dari generasi yang terhanyut dalam pergeseran kekuasaan dan identitas, yang dipengaruhi baik oleh pembaruan nasional maupun globalisasi. Diungkapkan melalui narasi yang intim dan personal, karyanya membahas tema-tema budaya dan politik secara luas, dan membantu kita memahami skema kekuasaan dan otoritas yang memengaruhi kehidupan kita saat ini.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Beranjak dari perenungan pribadi yang mendalam dan pengamatan tajam terhadap masyarakat dan politik, pameran ini mengeksplorasi perkembangan karya Agus Suwage dengan melihat hubungan antara mimpi-mimpi individu dan kesadaran akan tanggung jawab, serta peran perupa dalam membuka ruang untuk menyuarakan kritik sosial.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Selama lebih dari 25 tahun, Suwage telah menciptakan potret-potret diri untuk menyelidiki posisi dirinya sebagai subjek terkait konteks sosial di sekelilingnya. Sang perupa telah menyatakan bahwa membuat potret diri adalah upaya untuk mengkritik diri dan bahwa seseorang harus selalu berlatih mengkritik diri sendiri sebelum orang lain. Dalam pengertian ini, karya Agus Suwage memberikan gambaran nyata pada persinggungan identitas nasional, politik, masyarakat, dan ekspresi individu yang membawa kita ke dalam ruang psikologis yang kompleks.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Berbagai gagasan seperti ingatan, rasa takut, keterasingan, angan-angan, identitas perseorangan, dan humor terjalin dengan komentar sosial secara umum. Jauh dari analogi dan pengamatan sederhana tentang dunia yang terus berubah di sekitarnya, karya Agus Suwage menjadi lebih kompleks dengan adanya interogasi diri secara terus-menerus, serta penggalian mitos dan simbol yang membingkai kompleksitas hubungan manusia dan kekuatan politik nasional, yang menguraikan cita-cita bangsa dan korupsi yang menyedihkan. Karya-karyanya merujuk pada sejarah seni rupa Indonesia dan dunia, filsafat, musik, dan politik, serta mengidentifikasi pendekatan artistik dan keterhubungan konsep yang serupa dengan perupa lainnya, melintasi batas ruang dan waktu.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1FF55617_0E95_0BEC_41A3_BF568C65D684.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Agus Suwage: The Theater of Me</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.31vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Karya Awal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Agus Suwage berpengalaman sebagai seorang desainer grafis dan pada tahun 1988 menjadi salah satu pendiri studio desain grafis di Jakarta bernama Work Gallery. Saat bekerja sebagai desainer, ia juga mengeksplorasi minatnya pada seni rupa. Suwage menggunakan beberapa ruangan di kantor tersebut sebagai studio lukis, sementara ruangan lainnya diubah menjadi ruang pamer. Pameran kelompok berskala kecil pun ia ikuti, dan pada sekitar tahun 1993, ia mulai diundang berpameran di luar negeri.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Agus Suwage menetap di Jakarta selama periode yang bergejolak menjelang Kerusuhan Mei 1998, yang berujung pada keruntuhan rezim Orde Baru Soeharto. Karya-karya dalam ruangan ini, yang dibuat pada tahun 1987–1997, menggambarkan momen penting dalam perkembangan Agus Suwage sebagai perupa. Kita dapat melihat dampak periode politik tersebut, serta proses pembelajaran sang perupa sebagai pelukis otodidak dengan mengamati karya perupa lain. Hal ini merupakan dasar konseptual penting bagi perkembangan praktik artistik Suwage. Kita melihat pengaruh ekspresionisme Jerman—ekspresi yang gelap dari Anselm Kiefer dan investigasinya terhadap trauma dalam sejarah Jerman, imajinasi surealis dari René Magritte, dan kegelisahan akan ruang psikologis dalam karya perupa Italia Francesco Clemente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Pendekatan berkesenian melalui perenungan mendalam terhadap karya perupa lain ini berlanjut sepanjang praktik artistiknya (dan dapat dieksplorasi sepanjang pameran ini). Pendekatannya juga terkait dengan gagasan-gagasan lain yang beredar di kalangan terpelajar pada saat itu, misalnya penyusunan wacana postmodern melalui kutipan dan rekombinasi. Narasi-narasi besar, struktur kuasa otorisasi, yang dipertanyakan dalam teori postmodern, juga dipertanyakan mahasiswa dan intelektual muda Indonesia. Gagasan postmodernisme yang mengubah cara pandang otoritatif tunggal atau narasi besar, dengan posisi subjektif dan individual, barangkali merupakan cara ampuh bagi seorang perupa muda untuk memikirkan perubahan penting situasi politik yang terjadi di kota sekitarnya dengan seksama.</SPAN></SPAN></DIV></div>
+HTMLText_12C9A9BB_0F8D_3824_417D_EC2F2816E59C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Kematian dan Sirkus I</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Siklus #1 (2010) adalah sebuah karya yang dibuat oleh Agus Suwage sebagai hasil mengikuti program residensi seni di Dhaka, Bangladesh, di mana ia melihat kesenjangan yang ekstrem antara kemiskinan dan kekayaan. Melihat burung gagak mengorek tumpukan sampah dan terinspirasi oleh pemakaman langit di Tibet—di mana jasad diumpankan kepada burung—Suwage menyadari akan siklus kehidupan dan zat. Semua yang hidup akan mati dan pada akhirnya akan kembali melalui pemakan bangkai, menjadi sesuatu yang berguna.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Memento mori—atau pengingat akan kefanaan manusia, muncul berulang di seluruh praktik Suwage. Pemahaman ini berfungsi sebagai humor gelap dan kiasan yang mengacu pada kerapuhan, penderitaan, dan absurditas manusia.</SPAN></SPAN></DIV></div>
+HTMLText_1163056F_0FB5_083C_41A0_781715D6F6CE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Kematian dan Sirkus II</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Karya-karya ini menggambarkan hubungan yang kompleks antara perupa dan pasar. Suwage secara kritis mengamati dinamika kuasa antara perupa, dealer, kolektor dan institusi, serta dampak personalnya terhadap sang perupa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Dalam Toys ‘S’ Us (2003), sang perupa ditampilkan sebagai miniatur dalam serangkaian mainan interaktif anak-anak yang juga menjadi mainan bagi siapapun yang menyaksikan—ia ditampilkan sebagai sosok kekanakan, penurut, dan memperagakan berbagai muslihat. Hubungan ini digambarkan secara terbalik dalam Passion Play (Pertunjukkan Gairah) (2009), di mana sejumlah sosok yang berpengaruh di dunia seni rupa, termasuk dealer, kurator, dan kolektornya dipenjara, juga dipamerkan di balik jeruji besi. Karya ini diciptakan untuk pameran retrospektif Suwage pada tahun 2009 yang berjudul ‘Still Crazy After All These Years’ yang dihadirkan pada puncak boom seni rupa Indonesia yang dimulai pada tahun 2000-an. Boom seni ini berbeda dengan periode sebelumnya pada tahun 1980-an dan 1990-an ketika karya seni rupa Indonesia utamanya beredar di ranah domestik. Boom tahun 2000-an memperlihatkan susunan pemain yang lebih kompleks termasuk balai lelang internasional, di mana Asia Tenggara terhubung dengan pasar-pasar baru dalam cakupan wilayah yang lebih luas di Asia.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Passion Play mengambil judul dari naskah teater yang biasa dipentaskan menjelang Paskah dalam tradisi Kristiani yang mengisahkan penderitaan dan kematian Yesus Kristus. Secara historis, pertunjukan ini berfungsi ganda: sebagai cara mengisahkan Kristus, sekaligus menegaskan kontrol sosial atas jemaat melalui artikulasi pengharapan masyarakat. Observasi satir Suwage menyadarkan kita akan kerumitan relasi sosial, politik dan ekonomi yang membingkai dunia seni rupa, dan peran perupa yang genting.</SPAN></SPAN></DIV></div>
+HTMLText_29378A9F_0F8D_181C_41A0_8023554595B6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Monumen yang Menjaga Hankamnas</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Instalasi ini terdiri dari seribu lebih botol bir kosong yang disusun menyerupai monumen bercahaya, dengan sosok malaikat bersayap emas berdiri di puncaknya, mengenakan serban dan memegang sebilah pedang. Suwage menggambarkan bagaimana karya ini bertolak dari kritiknya yang berkelanjutan terhadap perilaku otoriter dan intoleransi, serta kepeduliannya terhadap kebutuhan untuk senantiasa melindungi kebebasan dan hak individu dengan penuh kewaspadaan. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Karya ini mengandung sejumlah simbol yang penting dalam karya Suwage: bir—yang mewakili pelumas sosial sekaligus antagonisme terhadap konservatisme beragama—dan sosok malaikat pelindung, yang ditampilkan sebagai kerangka. Istilah 'Hankamnas' dalam judul karya, merupakan akronim dari Pertahanan dan Keamanan Nasional, dan mengacu pada bagaimana kekuasaan pada masa Orde Baru dipusatkan dan dipertahankan, hingga pada akhirnya menimbulkan gejolak yang berpuncak pada keruntuhan Orde Baru, menuju Reformasi. Karya ini merupakan parodi kekuasaan, kejayaan, dan eksistensi posisi individu yang terperangkap dalam mekanisme kekuasaan. Sang perupa mengamati bagaimana toleransi, baik sebagai konsep maupun praktik, masih harus diperjuangkan meskipun sistem pemerintahan, sosial, dan politik telah direformasi.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Social Mirrors #3 (2013) menyertakan rekaman bunyi terompet yang menyerupai irama melodi azan atau panggilan sembahyang. Suwage membayangkan seruan yang syahdu dan menggugah, yang mengajak masyarakat untuk beribadah, kontras dengan persaingan azan yang kerap kita dengar di permukiman padat di wilayah urban. </SPAN></SPAN></DIV></div>
+HTMLText_14FE2577_0E93_082D_4174_FDDA8AB73026.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Proses</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Komitmen pada seni gambar (drawing), sebagai sebuah proses dan praktik, sangat mendasar dalam karya Agus Suwage. Karya 100 Drawings and 720 Hari (2012–2014) memberikan gambaran kepada kita mengenai struktur dan proses sang perupa saat berkarya. Layaknya buku harian, rangkaian seni gambar ini tampak intim dan observasional, dengan sekelebat gambaran mengenai bagaimana sang perupa berkarya melalui gagasan yang muncul dan berulang dalam berbagai area praktiknya. Karya ini juga menunjukkan komitmen dan kedisiplinan sang perupa, juga rutinitas hariannya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">‘CIRCL3’ adalah seri karya yang dikembangkan selama program residensi seni pada tahun 2009 di STPI, Singapura. Dengan menggunakan bubur kertas (bahan mentah yang digunakan untuk membuat kertas), Suwage telah menciptakan karya berskala besar yang merujuk pada kontroversi. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Pada tahun 2005, Suwage menciptakan karya instalasi Pinkswing Park (kini dikoleksi Singapore Art Museum) yang menyertakan citraan figur-figur setengah telanjang laki-laki dan perempuan di sebuah taman (dengan alat kelamin disamarkan, atau diberi potongan lingkaran oleh sang perupa). Citraan tersebut dipasang mengelilingi patung yang ditempatkan di tengah ruangan—sebuah becak yang dicat merah muda. Karya ini menyedot perhatian luar biasa dari media massa dan menimbulkan ancaman kekerasan politik dan protes dari Front Pembela Islam (FPI) serta menempatkan Suwage, kurator pameran, fotografer, dan kedua modelnya, dituduh melanggar hukum anti-pornografi di Indonesia. Meskipun tidak ada gugatan dan proses peradilan, kegemparan dan kegaduhan silang pendapat publik berkontribusi pada diskusi terkait kebebasan berekspresi dalam kesenian, dan menyoroti sebuah pertentangan yang lebih besar; antara nilai-nilai liberal dan pluralisme budaya Indonesia di satu sisi, dengan pengaruh kepentingan agama terhadap masyarakat kontemporer Indonesia di sisi lainnya. Kumpulan karya dengan material kertas ini, dibuat empat tahun setelah kasus tersebut, menampilkan model perempuan yang sama dari instalasi aslinya pada tahun 2005, dengan kutipan teks Undang-Undang (No. 44 tahun 2008 tentang Pornografi) tertulis di atasnya, menghalangi citraan perempuan di bawahnya, serta potongan lingkaran yang menghilangkan unsur yang dianggap sensitif.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Penggunaaan potongan lingkaran ini dapat dilihat sebagai tindakan sensor sekaligus bentuk pertahanan diri. Hal tersebut juga menyadarkan bahwa kita tidak melihat segala sesuatu secara utuh. Dengan menghapus apa yang mungkin dianggap menyinggung, kita menyadari bahwa ada sesuatu yang hilang: sudut pandang, argumentasi, posisi subjek yang pada akhirnya menghilang dari pembahasan umum.</SPAN></SPAN></DIV></div>
+HTMLText_16A72D06_0E94_F9EC_41A2_C08E1A4ACB97.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Self-portraits </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Aku mengandung banyak persona, diri dalam lautan potret</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Dalam ruangan ini, kita melihat potret diri yang dibuat dalam kurun waktu lebih dari 25 tahun. Secara keseluruhan, mereka terlihat absurd dan meresahkan. Kita dapat melihat bagaimana dia menirukan hewan, menggambarkan dirinya dengan gaya diktator, tampil sebagai individu yang rapuh, eksentrik, dan memperlihatkan perwujudan antropomorfik dari stereotip rasial.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Tubuh sang perupa telah menjadi subjek yang hadir berulang-ulang sejak awal praktik keseniannya. Hal ini bermula sebagai respon pragmatis atas situasi ekonominya; dia tidak perlu membayar model untuk berpose di hadapannya. Pragmatisme awal ini berubah menjadi salah satu fitur yang paling dikenal dari praktik Suwage, dengan bentuk tiruan unik atas penampakan fisik sang perupa, disertai komentar politik dan sosial serta pertanyaan filosofis mengenai eksistensi. Dalam karya-karya ini, kita dapat melihat bagaimana kehidupan bangsa, sosial, dan politik diwujudkan dalam representasi tubuh sang perupa.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Perkembangan Agus Suwage sebagai perupa muda dihadapkan pada kekacauan, kekerasan dan huru-hara politik di Jakarta pada pertengahan hingga akhir 1990-an, diiringi demonstrasi mahasiswa menjelang Reformasi pada tahun 1998. Reformasi juga bertepatan dengan globalisasi, yang berarti informasi dan budaya dapat diakses dengan lebih mudah dan lebih cepat, utamanya seiring kemunculan berbagai media baru dalam percaturan media di Indonesia. Kesempatan untuk bepergian, berpameran, dan berpartisipasi dalam residensi seni di luar negeri menciptakan berbagai kemungkinan pertukaran intelektual.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Berkomitmen pada gagasan bahwa seseorang harus kritis terhadap diri sendiri dan melihat kelemahannya sendiri sebelum melontarkan kritik dan keluhan pada komunitas kolektif atau proyeksi nasionalnya, potret-potret diri ini menjadi pintu masuk untuk menyingkap hubungan antar individu yang kompleks dalam proyeksi nasional mengenai minoritas dan mayoritas. Apakah itu perenungan tentang antagonisme beragama dalam diskursus nasional di Indonesia, pemahaman akan hak-hak sipil, artikulasi kekerasan historis dan politik, atau dalam mempertanyakan hubungan antara individu dan mereka yang berkuasa—tubuh sang perupa berkali-kali hadir dan muncul, memperlihatkan kerapuhan, menua, dan tersenyum seraya berolok-olok.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Dalam ruangan ini, kita diingatkan akan ketidaksempurnaan manusia; ungkapan yang berbunyi “tidak ada yang benar-benar berubah”—seperti yang dinyatakan Bob Dylan “...I contain multitudes (aku mengandung banyak persona)” yang dipinjam dari puisi penyair Amerika Walt Whitman.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Suwage mengingatkan kita bahwa dampak dan pengaruh sistem politik dan ekonomi, serta identifikasi komunal, dapat dirasakan oleh setiap individu. Pada tataran individu itu pula, kekerasan komunal dan kekhasan masing-masing pribadi termanifestasikan. Dan dari hal-hal tersebut, keragaman serta perbedaan pendapat pada akhirnya terbentuk.</SPAN></SPAN></DIV></div>
+HTMLText_2F54B304_0F97_09EC_41A4_75BCA7A93C27.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"><B>Tekanan dan Kenikmatan</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Agus Suwage menggambarkan bagaimana pada periode sekitar Kerusuhan Mei 1998 ia mengalami  kemandekan artistik. Pada bulan Desember 1999, ia berpindah dari Jakarta ke Yogyakarta, disertai keprihatinan dan keputusasaannya atas kekerasan dan kekacauan yang bergejolak seiring tumbangnya rezim Orde Baru. Pressure and Pleasure (Tekanan dan Kenikmatan) (1999) merupakan salah satu karya kunci  yang dihasilkannya menyusul periode ini. Ketika itu, tenda-tenda masih berdiri di jalanan dan sebagian kota masih membara. Pada saat bersamaan, tempat hiburan dan karaoke telah dibuka kembali —meski di tengah situasi yang tidak pasti dan tak menentu. Seketika sang perupa menyadari bahwa kekerasan semakin dipandang sebagai hal yang lumrah. Dualitas ini ditampilkan di dalam tenda, di mana kita menemukan potret diri sang perupa di antara penggambaran semi-erotis nan menggairahkan dari bintang film dewasa yang dilukis dengan gaya spanduk film.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Maka Lahirlah Angkatan '90-an (2001) merupakan apropriasi dari lukisan S. Sudjojono yang berjudul Maka Lahirlah Angkatan '66 (1966) (yang saat ini ditampilkan dalam pameran ‘POSE’ di Galeri 2 Museum MACAN). Kedua lukisan ini dibuat pada masa perubahan sosial yang besar di Indonesia. Sudjojono membuat lukisannya seiring dengan gelombang protes mahasiswa pada tahun 1966, saat para pemuda menuntut perubahan radikal dalam pemerintahan, sedangkan Suwage membuat apropriasi tersebut segera setelah Kerusuhan Mei 1998.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Lukisan Sudjojono menggambarkan komitmen sang perupa pada persoalan sosial dan perjuangan rakyat akan hak dan kedaulatan, sementara  perspektif Suwage berasal dari generasi berbeda yang muncul di persimpangan perubahan sosial, peluang ekonomi global, dan perkembangan dunia hiburan. Meski terkadang masih terkait dengan agenda politik tertentu, seni pada tahun 1990-an memiliki fungsi sosial dan ekonomi yang berbeda saat berhadapan dengan kekuatan globalisasi.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';">Dalam lukisan ini kita melihat gambaran nostalgia melalui potret seorang perupa nasionalis yang berpartisipasi dalam agenda politik dengan kuas di tangannya. Perupa tersebut berdiri di depan poster film dewasa yang digambarkan dalam instalasi Pressure and Pleasure (1999). Menirukan gaya Sudjojono yang khas—menulis teks pada lukisannya—Suwage menorehkan corat-coret serupa yang mengkritisi sistem ekonomi yang mengikis cita-cita nasional generasi sebelumnya, sekaligus pengamatan terhadap komodifikasi seni dan kecenderungan neoliberalnya:</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:45px;padding-right:45px;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:45px;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';text-indent:45px;"><I>Mungkin Sudjojono tak pernah bermimpi jika tiba-tiba lukisan</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:45px;padding-right:45px;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:45px;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';text-indent:45px;"><I>jadi komoditi yang laris manis, justru pada saat ekonomi</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:45px;padding-right:45px;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:45px;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';text-indent:45px;"><I>Indonesia sedang terpuruk</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:135px;padding-right:135px;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:135px;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';text-indent:135px;"><I> </I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;text-indent:45px;padding-right:45px;font-size:3.0555555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:45px;"><SPAN STYLE="color:#333333;font-size:3.06vmin;font-family:'Open Sans';text-indent:45px;"><I>Maka abrakadabra boom… lahirlah angkatan ‘90-an</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.52vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_728E9155_619F_D031_4192_E51100B6FC46.toolTip = Next
+IconButton_728EB155_619F_D031_41D6_468747A42843.toolTip = Previous
+
+## Tour
+
+### Description
+tour.description = Museum MACAN \
+Agus Suwage: The Theater of Me \
+Object Labels for Archive Collection 360°
+
+### Title
+tour.name = Agus Suwage: The Theater of Me
